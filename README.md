@@ -16,3 +16,6 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Web
 Coming soon!
+
+## Special thanks 
+Huge thanks for [FG Analyst](https://cloudseeker.xyz/fga/) for letting me crawl through their indexed levels resulting in a lot of levels being archived
