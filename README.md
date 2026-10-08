@@ -10,7 +10,7 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~12,462**
+- Total indexed levels: **~12,656**
 - Size: **~1.2 GB**
 <!-- stats end -->
 
