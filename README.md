@@ -1,8 +1,18 @@
 # Fall Guys Creative Archive (EXPERIMENTAL)
-Repository that archives Fall Guys Creative levels.\
-To maintain small repository size only level metadata represented in this repository as of now. Level scenes and thumbnails saved to Telegram channel
+> [!WARNING]
+> This is an experiment! My resources are really limited so I can't promise that this project will be a long run
+
+Repository that archives Fall Guys Creative levels.
+
+To maintain a small repository size only level snapshots are hosted here as of now. Other level data (such as scene and thumbnail) hosted in [this Telegram Channel](https://t.me/fgugcarchive)
+
+Please note that level snapshots have been minified as much as possible, some details I don't think are worth the archiving were excluded from them
 
 ## Statistics
 <!-- stats begin -->
-TODO
+- Total indexed levels: **~10005**
+- Size: **~1.0 GB**
 <!-- stats end -->
+
+## Web
+Coming soon!
