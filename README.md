@@ -10,24 +10,24 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~110,657**
+- Total indexed levels: **~110,659**
 - Size: **~9.2 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **83,629** levels
+- GAMEMODE_GAUNTLET: **83,631** levels
 - GAMEMODE_SURVIVAL: **16,206** levels
 - GAMEMODE_POINTS: **10,470** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **87,935** levels
-- THEME_RETRO: **22,369** levels
+- THEME_VANILLA: **87,936** levels
+- THEME_RETRO: **22,370** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **76,432** levels
+- None: **76,433** levels
 - Parkour: **9,252** levels
 - Hard: **9,008** levels
 - Chill: **7,113** levels
-- Art: **6,760** levels
+- Art: **6,761** levels
 - Quick: **6,583** levels
 - Hangout: **5,510** levels
 - Long: **4,049** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **1,678** levels
 - Co-op: **1,448** levels
 ### Platforms
-- switch: **25,413** levels
+- switch: **25,415** levels
 - ps5: **23,699** levels
 - ps4: **21,372** levels
 - pc_egs: **18,532** levels
@@ -50,7 +50,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Fall 'n' Roll: **32,115** levels
 - Digifal Guys: **8,800** levels
 - Final Fall: **4,464** levels
-- Tentacle Tantrum: **4,109** levels
+- Tentacle Tantrum: **4,111** levels
 - Bean Thieves: **3,745** levels
 - Falling Stars (Chugu Bam Bam): **3,691** levels
 - Yatta Yatta: **3,540** levels
@@ -86,7 +86,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Versions
 - 11.1.0: **15,827** levels
 - 11.5.0: **12,732** levels
-- 18.0.0: **10,543** levels
+- 18.0.0: **10,545** levels
 - 11.0.1: **9,956** levels
 - 11.2.0: **9,224** levels
 - 11.3.0: **8,712** levels
@@ -126,7 +126,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **108,988** levels
+- FGAnalyst: **108,990** levels
 - Explore: **1,666** levels
 - BotLookup: **3** levels
 <!-- stats end -->
