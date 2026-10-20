@@ -10,91 +10,91 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~191,533**
+- Total indexed levels: **~192,097**
 - Size: **~15.1 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **143,154** levels
-- GAMEMODE_SURVIVAL: **27,676** levels
-- GAMEMODE_POINTS: **19,988** levels
+- GAMEMODE_GAUNTLET: **143,552** levels
+- GAMEMODE_SURVIVAL: **27,762** levels
+- GAMEMODE_POINTS: **20,066** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **152,832** levels
-- THEME_RETRO: **37,985** levels
+- THEME_VANILLA: **153,280** levels
+- THEME_RETRO: **38,099** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **136,203** levels
-- Hard: **15,384** levels
-- Parkour: **15,215** levels
-- Art: **11,227** levels
-- Chill: **11,175** levels
-- Quick: **10,458** levels
-- Hangout: **9,518** levels
-- Long: **6,850** levels
-- falljam: **5,238** levels
-- Practice: **5,140** levels
-- Prank: **3,882** levels
-- Puzzle: **2,739** levels
-- Co-op: **2,518** levels
+- None: **136,611** levels
+- Hard: **15,432** levels
+- Parkour: **15,269** levels
+- Art: **11,255** levels
+- Chill: **11,204** levels
+- Quick: **10,496** levels
+- Hangout: **9,546** levels
+- Long: **6,880** levels
+- falljam: **5,244** levels
+- Practice: **5,151** levels
+- Prank: **3,893** levels
+- Puzzle: **2,746** levels
+- Co-op: **2,524** levels
 ### Platforms
-- switch: **48,460** levels
-- ps5: **44,955** levels
-- ps4: **32,316** levels
-- pc_egs: **30,916** levels
-- xsx: **17,384** levels
-- xb1: **7,029** levels
-- pc_steam: **5,835** levels
-- win: **4,627** levels
+- switch: **48,653** levels
+- ps5: **45,112** levels
+- ps4: **32,380** levels
+- pc_egs: **30,985** levels
+- xsx: **17,443** levels
+- xb1: **7,044** levels
+- pc_steam: **5,840** levels
+- win: **4,629** levels
 - android_ega: **4** levels
 - ios_ega: **3** levels
 - pc_standalone: **2** levels
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **57,099** levels
-- Digifal Guys: **15,258** levels
-- Final Fall: **7,957** levels
-- Tentacle Tantrum: **7,655** levels
-- Falling Stars (Chugu Bam Bam): **6,423** levels
-- Bean Thieves: **6,397** levels
-- Yatta Yatta: **5,516** levels
-- Random: **4,561** levels
-- Beans of the Round Table: **4,420** levels
-- Scubabeans: **4,409** levels
-- Chill Your Beans: **4,211** levels
-- Long Wall: **3,865** levels
-- Clumsy Shuffle: **3,862** levels
-- Orbital Tumbling: **3,851** levels
-- Falloween: **3,842** levels
-- Falling (in Love) on the Dancefloor: **3,740** levels
-- Fall For The Team: **3,701** levels
-- DnB (Drum & Beans): **3,677** levels
-- Carousel Stumble: **3,576** levels
-- Chimney Bean Bebop: **3,354** levels
-- Temple Tumble: **3,250** levels
-- Survive The Fall: **3,129** levels
-- Fall for the Queen Bean: **2,973** levels
-- Rumbling Waterfall: **2,468** levels
-- Future Utobeania: **2,454** levels
-- Crown Stack Overflow: **2,245** levels
-- Satellite Scramble: **2,173** levels
-- Winter Fallympics: **2,079** levels
-- Grand Festifall: **2,021** levels
-- Of Fables And Falling: **1,949** levels
-- Sunken Seacrets: **1,884** levels
-- Beanary Computing: **1,853** levels
-- Main Room Beanstep: **1,773** levels
-- Skis On Beans: **1,353** levels
-- Sir Falls-A-Lot (William Fell): **1,305** levels
-- Virtual Beanity: **1,250** levels
+- Fall 'n' Roll: **57,270** levels
+- Digifal Guys: **15,308** levels
+- Final Fall: **7,985** levels
+- Tentacle Tantrum: **7,685** levels
+- Falling Stars (Chugu Bam Bam): **6,445** levels
+- Bean Thieves: **6,413** levels
+- Yatta Yatta: **5,522** levels
+- Random: **4,559** levels
+- Beans of the Round Table: **4,431** levels
+- Scubabeans: **4,418** levels
+- Chill Your Beans: **4,225** levels
+- Long Wall: **3,885** levels
+- Clumsy Shuffle: **3,873** levels
+- Orbital Tumbling: **3,868** levels
+- Falloween: **3,854** levels
+- Falling (in Love) on the Dancefloor: **3,754** levels
+- Fall For The Team: **3,710** levels
+- DnB (Drum & Beans): **3,689** levels
+- Carousel Stumble: **3,589** levels
+- Chimney Bean Bebop: **3,360** levels
+- Temple Tumble: **3,257** levels
+- Survive The Fall: **3,142** levels
+- Fall for the Queen Bean: **2,976** levels
+- Rumbling Waterfall: **2,476** levels
+- Future Utobeania: **2,459** levels
+- Crown Stack Overflow: **2,249** levels
+- Satellite Scramble: **2,177** levels
+- Winter Fallympics: **2,081** levels
+- Grand Festifall: **2,026** levels
+- Of Fables And Falling: **1,960** levels
+- Sunken Seacrets: **1,891** levels
+- Beanary Computing: **1,858** levels
+- Main Room Beanstep: **1,782** levels
+- Skis On Beans: **1,357** levels
+- Sir Falls-A-Lot (William Fell): **1,308** levels
+- Virtual Beanity: **1,255** levels
 ### Versions
-- 21.2.0: **16,358** levels
+- 21.2.0: **16,363** levels
 - 11.1.0: **16,001** levels
 - 21.1.2: **15,398** levels
 - 19.0.0: **14,800** levels
-- 11.5.0: **12,880** levels
+- 11.5.0: **12,882** levels
 - 18.0.0: **12,812** levels
-- 21.3.0: **10,320** levels
+- 21.3.0: **10,857** levels
 - 11.0.1: **10,249** levels
 - 11.2.0: **9,252** levels
 - 11.3.0: **8,763** levels
@@ -106,14 +106,14 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.2.1: **6,166** levels
 - 11.6.1: **4,329** levels
 - 21.1.1: **3,617** levels
-- 21.3.1: **2,630** levels
+- 21.3.1: **2,646** levels
 - 21.0.0: **2,159** levels
-- 10.8.1: **2,037** levels
+- 10.8.1: **2,038** levels
 - 10.9.1: **1,972** levels
-- 10.0.0: **1,064** levels
+- 10.0.0: **1,066** levels
 - 10.8.0: **992** levels
 - 10.2.1: **780** levels
-- 10.1.0: **483** levels
+- 10.1.0: **484** levels
 - 10.3.0: **420** levels
 - 10.6.2: **395** levels
 - 10.7.1: **390** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **190,103** levels
-- Explore: **1,427** levels
+- FGAnalyst: **190,672** levels
+- Explore: **1,422** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
