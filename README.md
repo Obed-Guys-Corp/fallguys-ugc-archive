@@ -51,42 +51,42 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **64,661** levels
+- Fall 'n' Roll: **64,664** levels
 - Digifal Guys: **17,088** levels
 - Final Fall: **9,136** levels
-- Tentacle Tantrum: **8,765** levels
+- Tentacle Tantrum: **8,766** levels
 - Falling Stars (Chugu Bam Bam): **7,279** levels
 - Bean Thieves: **7,226** levels
-- Yatta Yatta: **6,110** levels
-- Scubabeans: **4,983** levels
+- Yatta Yatta: **6,113** levels
+- Scubabeans: **4,984** levels
 - Beans of the Round Table: **4,939** levels
 - Chill Your Beans: **4,705** levels
 - Long Wall: **4,432** levels
-- Clumsy Shuffle: **4,391** levels
-- Falloween: **4,327** levels
-- Orbital Tumbling: **4,327** levels
-- Falling (in Love) on the Dancefloor: **4,233** levels
+- Clumsy Shuffle: **4,392** levels
+- Falloween: **4,329** levels
+- Orbital Tumbling: **4,328** levels
+- Falling (in Love) on the Dancefloor: **4,234** levels
 - Fall For The Team: **4,231** levels
-- DnB (Drum & Beans): **4,149** levels
-- Carousel Stumble: **4,019** levels
-- Random: **3,863** levels
+- DnB (Drum & Beans): **4,150** levels
+- Carousel Stumble: **4,021** levels
+- Random: **3,834** levels
 - Chimney Bean Bebop: **3,751** levels
-- Temple Tumble: **3,664** levels
-- Survive The Fall: **3,524** levels
-- Fall for the Queen Bean: **3,336** levels
-- Rumbling Waterfall: **2,792** levels
+- Temple Tumble: **3,668** levels
+- Survive The Fall: **3,525** levels
+- Fall for the Queen Bean: **3,337** levels
+- Rumbling Waterfall: **2,793** levels
 - Future Utobeania: **2,782** levels
 - Crown Stack Overflow: **2,522** levels
-- Satellite Scramble: **2,434** levels
+- Satellite Scramble: **2,436** levels
 - Grand Festifall: **2,273** levels
 - Winter Fallympics: **2,272** levels
-- Of Fables And Falling: **2,246** levels
+- Of Fables And Falling: **2,247** levels
 - Sunken Seacrets: **2,143** levels
 - Beanary Computing: **2,110** levels
 - Main Room Beanstep: **1,990** levels
-- Skis On Beans: **1,516** levels
+- Skis On Beans: **1,518** levels
 - Sir Falls-A-Lot (William Fell): **1,472** levels
-- Virtual Beanity: **1,410** levels
+- Virtual Beanity: **1,411** levels
 ### Versions
 - 21.3.0: **24,855** levels
 - 21.2.0: **16,407** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **212,455** levels
-- Explore: **2,643** levels
+- FGAnalyst: **212,359** levels
+- Explore: **2,739** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
