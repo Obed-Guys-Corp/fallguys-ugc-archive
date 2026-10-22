@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~212,899**
+- Total indexed levels: **~212,900**
 - Size: **~16.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **158,958** levels
+- GAMEMODE_GAUNTLET: **158,959** levels
 - GAMEMODE_SURVIVAL: **30,715** levels
 - GAMEMODE_POINTS: **22,470** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **170,216** levels
+- THEME_VANILLA: **170,217** levels
 - THEME_RETRO: **41,926** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **151,829** levels
+- None: **151,830** levels
 - Hard: **17,091** levels
 - Parkour: **16,884** levels
 - Art: **12,481** levels
@@ -41,7 +41,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - ps5: **50,454** levels
 - ps4: **35,091** levels
 - pc_egs: **33,700** levels
-- xsx: **19,154** levels
+- xsx: **19,155** levels
 - xb1: **7,588** levels
 - pc_steam: **6,083** levels
 - win: **4,831** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **64,021** levels
+- Fall 'n' Roll: **64,022** levels
 - Digifal Guys: **16,935** levels
 - Final Fall: **9,035** levels
 - Tentacle Tantrum: **8,681** levels
@@ -97,7 +97,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 18.0.0: **12,819** levels
 - 11.0.1: **10,272** levels
 - 11.2.0: **9,257** levels
-- 21.3.1: **8,869** levels
+- 21.3.1: **8,870** levels
 - 11.3.0: **8,766** levels
 - 11.6.0: **8,214** levels
 - 21.0.1: **7,345** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **212,572** levels
-- Explore: **324** levels
+- FGAnalyst: **212,455** levels
+- Explore: **442** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
