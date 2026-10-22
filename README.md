@@ -10,37 +10,37 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~215,104**
+- Total indexed levels: **~215,109**
 - Size: **~16.8 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **160,628** levels
-- GAMEMODE_SURVIVAL: **31,004** levels
+- GAMEMODE_SURVIVAL: **31,009** levels
 - GAMEMODE_POINTS: **22,716** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **172,027** levels
+- THEME_VANILLA: **172,032** levels
 - THEME_RETRO: **42,320** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **153,345** levels
-- Hard: **17,284** levels
+- None: **153,348** levels
+- Hard: **17,285** levels
 - Parkour: **17,073** levels
-- Art: **12,642** levels
-- Chill: **12,488** levels
+- Art: **12,643** levels
+- Chill: **12,489** levels
 - Quick: **11,626** levels
 - Hangout: **10,909** levels
 - Long: **7,683** levels
 - Practice: **5,782** levels
-- falljam: **5,631** levels
+- falljam: **5,632** levels
 - Prank: **4,347** levels
 - Puzzle: **3,068** levels
 - Co-op: **2,827** levels
 ### Platforms
-- switch: **56,830** levels
-- ps5: **50,958** levels
-- ps4: **35,376** levels
-- pc_egs: **34,044** levels
+- switch: **56,831** levels
+- ps5: **50,959** levels
+- ps4: **35,378** levels
+- pc_egs: **34,045** levels
 - xsx: **19,307** levels
 - xb1: **7,644** levels
 - pc_steam: **6,102** levels
@@ -57,16 +57,16 @@ Please note that level snapshots have been minified as much as possible, some de
 - Tentacle Tantrum: **8,768** levels
 - Falling Stars (Chugu Bam Bam): **7,280** levels
 - Bean Thieves: **7,230** levels
-- Yatta Yatta: **6,125** levels
+- Yatta Yatta: **6,126** levels
 - Scubabeans: **4,988** levels
-- Beans of the Round Table: **4,940** levels
+- Beans of the Round Table: **4,941** levels
 - Chill Your Beans: **4,708** levels
 - Long Wall: **4,436** levels
 - Clumsy Shuffle: **4,396** levels
-- Falloween: **4,334** levels
+- Falloween: **4,335** levels
 - Orbital Tumbling: **4,329** levels
 - Falling (in Love) on the Dancefloor: **4,234** levels
-- Fall For The Team: **4,231** levels
+- Fall For The Team: **4,232** levels
 - DnB (Drum & Beans): **4,152** levels
 - Carousel Stumble: **4,023** levels
 - Chimney Bean Bebop: **3,752** levels
@@ -79,7 +79,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Crown Stack Overflow: **2,524** levels
 - Satellite Scramble: **2,437** levels
 - Grand Festifall: **2,275** levels
-- Winter Fallympics: **2,272** levels
+- Winter Fallympics: **2,273** levels
 - Of Fables And Falling: **2,248** levels
 - Sunken Seacrets: **2,147** levels
 - Beanary Computing: **2,114** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,816** levels
 - 11.5.0: **12,889** levels
 - 18.0.0: **12,819** levels
-- 21.3.1: **11,050** levels
+- 21.3.1: **11,055** levels
 - 11.0.1: **10,272** levels
 - 11.2.0: **9,257** levels
 - 11.3.0: **8,766** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **212,228** levels
-- Explore: **2,873** levels
+- FGAnalyst: **212,226** levels
+- Explore: **2,880** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
