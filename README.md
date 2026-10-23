@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~218,826**
+- Total indexed levels: **~218,827**
 - Size: **~17.1 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **163,472** levels
+- GAMEMODE_GAUNTLET: **163,473** levels
 - GAMEMODE_SURVIVAL: **31,425** levels
 - GAMEMODE_POINTS: **22,791** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
 - THEME_VANILLA: **174,460** levels
-- THEME_RETRO: **43,227** levels
+- THEME_RETRO: **43,228** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,013** levels
+- None: **156,014** levels
 - Hard: **17,534** levels
 - Parkour: **17,318** levels
 - Art: **12,862** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,877** levels
 ### Platforms
 - switch: **57,439** levels
-- ps5: **51,439** levels
+- ps5: **51,440** levels
 - ps4: **36,072** levels
 - pc_egs: **34,225** levels
 - xsx: **19,523** levels
@@ -56,7 +56,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Final Fall: **9,241** levels
 - Tentacle Tantrum: **8,828** levels
 - Falling Stars (Chugu Bam Bam): **7,352** levels
-- Bean Thieves: **7,292** levels
+- Bean Thieves: **7,293** levels
 - Yatta Yatta: **6,199** levels
 - Random: **5,219** levels
 - Scubabeans: **5,041** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,155** levels
+- 21.3.1: **11,156** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,9 +130,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **212,199** levels
+- FGAnalyst: **212,180** levels
 - Discord: **3,628** levels
-- Explore: **2,996** levels
+- Explore: **3,016** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
