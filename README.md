@@ -10,7 +10,7 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~215,198**
+- Total indexed levels: **~215,199**
 - Size: **~16.8 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **160,698** levels
@@ -23,7 +23,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **153,409** levels
+- None: **153,410** levels
 - Hard: **17,295** levels
 - Parkour: **17,079** levels
 - Art: **12,649** levels
@@ -44,7 +44,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - xsx: **19,311** levels
 - xb1: **7,649** levels
 - pc_steam: **6,104** levels
-- win: **4,831** levels
+- win: **4,832** levels
 - android_ega: **4** levels
 - ios_ega: **3** levels
 - pc_standalone: **3** levels
@@ -70,7 +70,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,155** levels
 - Carousel Stumble: **4,025** levels
 - Chimney Bean Bebop: **3,753** levels
-- Random: **3,740** levels
+- Random: **3,741** levels
 - Temple Tumble: **3,671** levels
 - Survive The Fall: **3,530** levels
 - Fall for the Queen Bean: **3,339** levels
@@ -110,7 +110,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.0.0: **2,172** levels
 - 10.8.1: **2,065** levels
 - 10.9.1: **2,015** levels
-- 10.0.0: **1,118** levels
+- 10.0.0: **1,119** levels
 - 10.8.0: **1,021** levels
 - 10.2.1: **868** levels
 - 10.1.0: **511** levels
@@ -133,6 +133,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - FGAnalyst: **212,199** levels
 - Explore: **2,996** levels
 - BotLookup: **3** levels
+- Discord: **1** level
 <!-- stats end -->
 
 ## Web
