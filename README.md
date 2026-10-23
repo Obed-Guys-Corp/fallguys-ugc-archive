@@ -10,35 +10,35 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~215,193**
+- Total indexed levels: **~215,194**
 - Size: **~16.8 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **160,697** levels
+- GAMEMODE_GAUNTLET: **160,698** levels
 - GAMEMODE_SURVIVAL: **31,014** levels
 - GAMEMODE_POINTS: **22,726** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
 - THEME_VANILLA: **172,105** levels
-- THEME_RETRO: **42,331** levels
+- THEME_RETRO: **42,332** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **153,408** levels
 - Hard: **17,293** levels
-- Parkour: **17,077** levels
+- Parkour: **17,078** levels
 - Art: **12,647** levels
 - Chill: **12,493** levels
 - Quick: **11,631** levels
 - Hangout: **10,910** levels
 - Long: **7,688** levels
 - Practice: **5,785** levels
-- falljam: **5,636** levels
+- falljam: **5,637** levels
 - Prank: **4,348** levels
 - Puzzle: **3,071** levels
 - Co-op: **2,828** levels
 ### Platforms
 - switch: **56,857** levels
-- ps5: **50,979** levels
+- ps5: **50,980** levels
 - ps4: **35,391** levels
 - pc_egs: **34,060** levels
 - xsx: **19,311** levels
@@ -68,7 +68,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Falling (in Love) on the Dancefloor: **4,237** levels
 - Fall For The Team: **4,233** levels
 - DnB (Drum & Beans): **4,155** levels
-- Carousel Stumble: **4,024** levels
+- Carousel Stumble: **4,025** levels
 - Chimney Bean Bebop: **3,753** levels
 - Random: **3,740** levels
 - Temple Tumble: **3,670** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,816** levels
 - 11.5.0: **12,889** levels
 - 18.0.0: **12,819** levels
-- 21.3.1: **11,139** levels
+- 21.3.1: **11,140** levels
 - 11.0.1: **10,272** levels
 - 11.2.0: **9,257** levels
 - 11.3.0: **8,766** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **212,203** levels
-- Explore: **2,987** levels
+- Explore: **2,988** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
