@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,043**
+- Total indexed levels: **~219,047**
 - Size: **~17.1 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,642** levels
-- GAMEMODE_SURVIVAL: **31,439** levels
+- GAMEMODE_SURVIVAL: **31,443** levels
 - GAMEMODE_POINTS: **22,824** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,633** levels
+- THEME_VANILLA: **174,637** levels
 - THEME_RETRO: **43,271** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,169** levels
+- None: **156,173** levels
 - Hard: **17,556** levels
 - Parkour: **17,334** levels
 - Art: **12,876** levels
@@ -37,11 +37,11 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,135** levels
 - Co-op: **2,880** levels
 ### Platforms
-- switch: **57,525** levels
-- ps5: **51,496** levels
+- switch: **57,526** levels
+- ps5: **51,498** levels
 - ps4: **36,101** levels
 - pc_egs: **34,248** levels
-- xsx: **19,538** levels
+- xsx: **19,539** levels
 - xb1: **7,755** levels
 - pc_steam: **6,199** levels
 - win: **6,169** levels
@@ -51,10 +51,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,098** levels
+- Fall 'n' Roll: **65,100** levels
 - Digifal Guys: **17,251** levels
 - Final Fall: **9,250** levels
-- Tentacle Tantrum: **8,837** levels
+- Tentacle Tantrum: **8,838** levels
 - Falling Stars (Chugu Bam Bam): **7,356** levels
 - Bean Thieves: **7,297** levels
 - Yatta Yatta: **6,205** levels
@@ -71,7 +71,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,201** levels
 - Carousel Stumble: **4,073** levels
 - Chimney Bean Bebop: **3,807** levels
-- Temple Tumble: **3,738** levels
+- Temple Tumble: **3,739** levels
 - Survive The Fall: **3,586** levels
 - Fall for the Queen Bean: **3,397** levels
 - Future Utobeania: **2,841** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,371** levels
+- 21.3.1: **11,375** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,9 +130,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,994** levels
+- FGAnalyst: **211,972** levels
 - Discord: **3,628** levels
-- Explore: **3,418** levels
+- Explore: **3,444** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
