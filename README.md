@@ -10,34 +10,34 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~218,996**
+- Total indexed levels: **~218,997**
 - Size: **~17.1 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,604** levels
-- GAMEMODE_SURVIVAL: **31,437** levels
+- GAMEMODE_SURVIVAL: **31,438** levels
 - GAMEMODE_POINTS: **22,817** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,593** levels
+- THEME_VANILLA: **174,594** levels
 - THEME_RETRO: **43,264** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **156,136** levels
-- Hard: **17,550** levels
+- Hard: **17,551** levels
 - Parkour: **17,331** levels
 - Art: **12,872** levels
 - Chill: **12,775** levels
 - Quick: **11,902** levels
 - Hangout: **11,016** levels
-- Long: **7,795** levels
+- Long: **7,796** levels
 - falljam: **5,875** levels
 - Practice: **5,860** levels
 - Prank: **4,422** levels
 - Puzzle: **3,135** levels
 - Co-op: **2,879** levels
 ### Platforms
-- switch: **57,504** levels
+- switch: **57,505** levels
 - ps5: **51,481** levels
 - ps4: **36,096** levels
 - pc_egs: **34,247** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,086** levels
+- Fall 'n' Roll: **65,087** levels
 - Digifal Guys: **17,248** levels
 - Final Fall: **9,249** levels
 - Tentacle Tantrum: **8,832** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,324** levels
+- 21.3.1: **11,325** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,9 +130,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **212,105** levels
+- FGAnalyst: **212,095** levels
 - Discord: **3,628** levels
-- Explore: **3,260** levels
+- Explore: **3,271** levels
 - BotLookup: **3** levels
 <!-- stats end -->
 
