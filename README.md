@@ -10,22 +10,22 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,237**
+- Total indexed levels: **~219,241**
 - Size: **~17.1 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,776** levels
-- GAMEMODE_SURVIVAL: **31,478** levels
+- GAMEMODE_SURVIVAL: **31,482** levels
 - GAMEMODE_POINTS: **22,845** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,792** levels
-- THEME_RETRO: **43,306** levels
+- THEME_VANILLA: **174,793** levels
+- THEME_RETRO: **43,309** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,296** levels
+- None: **156,299** levels
 - Hard: **17,575** levels
-- Parkour: **17,352** levels
+- Parkour: **17,353** levels
 - Art: **12,892** levels
 - Chill: **12,791** levels
 - Quick: **11,912** levels
@@ -35,10 +35,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Practice: **5,867** levels
 - Prank: **4,429** levels
 - Puzzle: **3,140** levels
-- Co-op: **2,884** levels
+- Co-op: **2,885** levels
 ### Platforms
-- switch: **57,589** levels
-- ps5: **51,541** levels
+- switch: **57,592** levels
+- ps5: **51,542** levels
 - ps4: **36,129** levels
 - pc_egs: **34,284** levels
 - xsx: **19,556** levels
@@ -52,7 +52,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - ports3_1: **1** level
 ### Music
 - Fall 'n' Roll: **65,142** levels
-- Digifal Guys: **17,265** levels
+- Digifal Guys: **17,268** levels
 - Final Fall: **9,258** levels
 - Tentacle Tantrum: **8,843** levels
 - Falling Stars (Chugu Bam Bam): **7,366** levels
@@ -67,7 +67,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Orbital Tumbling: **4,419** levels
 - Falloween: **4,411** levels
 - Falling (in Love) on the Dancefloor: **4,310** levels
-- Fall For The Team: **4,278** levels
+- Fall For The Team: **4,279** levels
 - DnB (Drum & Beans): **4,203** levels
 - Carousel Stumble: **4,077** levels
 - Chimney Bean Bebop: **3,809** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,564** levels
+- 21.3.1: **11,568** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,714** levels
-- Explore: **3,892** levels
+- FGAnalyst: **211,707** levels
+- Explore: **3,903** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
