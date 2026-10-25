@@ -10,25 +10,25 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,121**
+- Total indexed levels: **~219,122**
 - Size: **~17.1 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,696** levels
 - GAMEMODE_SURVIVAL: **31,453** levels
-- GAMEMODE_POINTS: **22,834** levels
+- GAMEMODE_POINTS: **22,835** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,699** levels
+- THEME_VANILLA: **174,700** levels
 - THEME_RETRO: **43,283** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **156,220** levels
 - Hard: **17,563** levels
-- Parkour: **17,345** levels
+- Parkour: **17,346** levels
 - Art: **12,883** levels
 - Chill: **12,782** levels
-- Quick: **11,910** levels
+- Quick: **11,911** levels
 - Hangout: **11,020** levels
 - Long: **7,801** levels
 - falljam: **5,878** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **57,547** levels
 - ps5: **51,523** levels
 - ps4: **36,110** levels
-- pc_egs: **34,258** levels
+- pc_egs: **34,259** levels
 - xsx: **19,547** levels
 - xb1: **7,756** levels
 - pc_steam: **6,199** levels
@@ -63,7 +63,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Beans of the Round Table: **4,992** levels
 - Chill Your Beans: **4,770** levels
 - Long Wall: **4,519** levels
-- Clumsy Shuffle: **4,449** levels
+- Clumsy Shuffle: **4,450** levels
 - Orbital Tumbling: **4,416** levels
 - Falloween: **4,403** levels
 - Falling (in Love) on the Dancefloor: **4,309** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,449** levels
+- 21.3.1: **11,450** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,801** levels
-- Explore: **3,689** levels
+- FGAnalyst: **211,775** levels
+- Explore: **3,716** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
