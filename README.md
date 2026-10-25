@@ -10,38 +10,38 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,182**
+- Total indexed levels: **~219,185**
 - Size: **~17.1 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,741** levels
-- GAMEMODE_SURVIVAL: **31,463** levels
+- GAMEMODE_SURVIVAL: **31,466** levels
 - GAMEMODE_POINTS: **22,840** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,746** levels
+- THEME_VANILLA: **174,749** levels
 - THEME_RETRO: **43,297** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,258** levels
+- None: **156,260** levels
 - Hard: **17,569** levels
 - Parkour: **17,348** levels
-- Art: **12,888** levels
+- Art: **12,889** levels
 - Chill: **12,787** levels
 - Quick: **11,911** levels
 - Hangout: **11,031** levels
 - Long: **7,806** levels
-- falljam: **5,880** levels
+- falljam: **5,881** levels
 - Practice: **5,865** levels
 - Prank: **4,427** levels
 - Puzzle: **3,139** levels
 - Co-op: **2,884** levels
 ### Platforms
 - switch: **57,573** levels
-- ps5: **51,531** levels
+- ps5: **51,532** levels
 - ps4: **36,119** levels
-- pc_egs: **34,270** levels
-- xsx: **19,551** levels
+- pc_egs: **34,271** levels
+- xsx: **19,552** levels
 - xb1: **7,758** levels
 - pc_steam: **6,199** levels
 - win: **6,169** levels
@@ -53,7 +53,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Music
 - Fall 'n' Roll: **65,125** levels
 - Digifal Guys: **17,262** levels
-- Final Fall: **9,254** levels
+- Final Fall: **9,255** levels
 - Tentacle Tantrum: **8,842** levels
 - Falling Stars (Chugu Bam Bam): **7,359** levels
 - Bean Thieves: **7,306** levels
@@ -65,7 +65,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Long Wall: **4,520** levels
 - Clumsy Shuffle: **4,454** levels
 - Orbital Tumbling: **4,419** levels
-- Falloween: **4,407** levels
+- Falloween: **4,409** levels
 - Falling (in Love) on the Dancefloor: **4,310** levels
 - Fall For The Team: **4,278** levels
 - DnB (Drum & Beans): **4,203** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,509** levels
+- 21.3.1: **11,512** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,724** levels
-- Explore: **3,827** levels
+- Explore: **3,830** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
