@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,393**
+- Total indexed levels: **~219,394**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,891** levels
-- GAMEMODE_SURVIVAL: **31,496** levels
+- GAMEMODE_SURVIVAL: **31,497** levels
 - GAMEMODE_POINTS: **22,868** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,922** levels
+- THEME_VANILLA: **174,923** levels
 - THEME_RETRO: **43,332** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,399** levels
+- None: **156,400** levels
 - Hard: **17,589** levels
 - Parkour: **17,363** levels
 - Art: **12,908** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **57,646** levels
 - ps5: **51,566** levels
-- ps4: **36,156** levels
+- ps4: **36,157** levels
 - pc_egs: **34,309** levels
 - xsx: **19,571** levels
 - xb1: **7,764** levels
@@ -64,7 +64,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Chill Your Beans: **4,778** levels
 - Long Wall: **4,522** levels
 - Clumsy Shuffle: **4,456** levels
-- Orbital Tumbling: **4,423** levels
+- Orbital Tumbling: **4,424** levels
 - Falloween: **4,422** levels
 - Falling (in Love) on the Dancefloor: **4,313** levels
 - Fall For The Team: **4,282** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,718** levels
+- 21.3.1: **11,719** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,649** levels
-- Explore: **4,113** levels
+- Explore: **4,114** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
