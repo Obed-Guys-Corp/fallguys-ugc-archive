@@ -10,26 +10,26 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,391**
+- Total indexed levels: **~219,393**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **163,891** levels
-- GAMEMODE_SURVIVAL: **31,494** levels
+- GAMEMODE_SURVIVAL: **31,496** levels
 - GAMEMODE_POINTS: **22,868** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **174,920** levels
+- THEME_VANILLA: **174,922** levels
 - THEME_RETRO: **43,332** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,398** levels
+- None: **156,399** levels
 - Hard: **17,589** levels
 - Parkour: **17,363** levels
 - Art: **12,908** levels
-- Chill: **12,804** levels
+- Chill: **12,805** levels
 - Quick: **11,919** levels
-- Hangout: **11,046** levels
+- Hangout: **11,047** levels
 - Long: **7,814** levels
 - falljam: **5,883** levels
 - Practice: **5,874** levels
@@ -37,10 +37,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,144** levels
 - Co-op: **2,888** levels
 ### Platforms
-- switch: **57,645** levels
+- switch: **57,646** levels
 - ps5: **51,566** levels
 - ps4: **36,156** levels
-- pc_egs: **34,308** levels
+- pc_egs: **34,309** levels
 - xsx: **19,571** levels
 - xb1: **7,764** levels
 - pc_steam: **6,200** levels
@@ -71,14 +71,14 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,209** levels
 - Carousel Stumble: **4,080** levels
 - Chimney Bean Bebop: **3,809** levels
-- Temple Tumble: **3,743** levels
+- Temple Tumble: **3,744** levels
 - Survive The Fall: **3,592** levels
 - Fall for the Queen Bean: **3,405** levels
 - Future Utobeania: **2,844** levels
 - Rumbling Waterfall: **2,841** levels
 - Crown Stack Overflow: **2,599** levels
 - Satellite Scramble: **2,501** levels
-- Winter Fallympics: **2,367** levels
+- Winter Fallympics: **2,368** levels
 - Grand Festifall: **2,309** levels
 - Of Fables And Falling: **2,263** levels
 - Sunken Seacrets: **2,187** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,716** levels
+- 21.3.1: **11,718** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,649** levels
-- Explore: **4,111** levels
+- Explore: **4,113** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
