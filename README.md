@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,574**
+- Total indexed levels: **~219,575**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,023** levels
-- GAMEMODE_SURVIVAL: **31,519** levels
+- GAMEMODE_SURVIVAL: **31,520** levels
 - GAMEMODE_POINTS: **22,894** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,070** levels
+- THEME_VANILLA: **175,071** levels
 - THEME_RETRO: **43,365** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,530** levels
+- None: **156,531** levels
 - Hard: **17,606** levels
 - Parkour: **17,374** levels
 - Art: **12,922** levels
@@ -43,7 +43,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - pc_egs: **34,340** levels
 - xsx: **19,580** levels
 - xb1: **7,766** levels
-- pc_steam: **6,201** levels
+- pc_steam: **6,202** levels
 - win: **6,169** levels
 - android_ega: **4** levels
 - ios_ega: **3** levels
@@ -77,7 +77,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Future Utobeania: **2,850** levels
 - Rumbling Waterfall: **2,844** levels
 - Crown Stack Overflow: **2,602** levels
-- Satellite Scramble: **2,504** levels
+- Satellite Scramble: **2,505** levels
 - Winter Fallympics: **2,369** levels
 - Grand Festifall: **2,310** levels
 - Of Fables And Falling: **2,264** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,894** levels
+- 21.3.1: **11,895** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,565** levels
-- Explore: **4,378** levels
+- Explore: **4,379** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
