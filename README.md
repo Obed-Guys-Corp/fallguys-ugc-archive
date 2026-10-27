@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,572**
+- Total indexed levels: **~219,574**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,023** levels
-- GAMEMODE_SURVIVAL: **31,517** levels
+- GAMEMODE_SURVIVAL: **31,519** levels
 - GAMEMODE_POINTS: **22,894** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,068** levels
+- THEME_VANILLA: **175,070** levels
 - THEME_RETRO: **43,365** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,528** levels
+- None: **156,530** levels
 - Hard: **17,606** levels
 - Parkour: **17,374** levels
 - Art: **12,922** levels
@@ -37,8 +37,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,145** levels
 - Co-op: **2,892** levels
 ### Platforms
-- switch: **57,721** levels
-- ps5: **51,615** levels
+- switch: **57,722** levels
+- ps5: **51,616** levels
 - ps4: **36,168** levels
 - pc_egs: **34,340** levels
 - xsx: **19,580** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,243** levels
+- Fall 'n' Roll: **65,245** levels
 - Digifal Guys: **17,291** levels
 - Final Fall: **9,266** levels
 - Tentacle Tantrum: **8,852** levels
@@ -88,14 +88,14 @@ Please note that level snapshots have been minified as much as possible, some de
 - Sir Falls-A-Lot (William Fell): **1,494** levels
 - Virtual Beanity: **1,440** levels
 ### Versions
-- 21.3.0: **24,878** levels
+- 21.3.0: **24,879** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,893** levels
+- 21.3.1: **11,894** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,567** levels
-- Explore: **4,374** levels
+- FGAnalyst: **211,565** levels
+- Explore: **4,378** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
