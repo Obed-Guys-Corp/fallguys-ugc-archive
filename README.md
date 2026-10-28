@@ -10,22 +10,22 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,699**
+- Total indexed levels: **~219,700**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,116** levels
-- GAMEMODE_SURVIVAL: **31,536** levels
+- GAMEMODE_SURVIVAL: **31,537** levels
 - GAMEMODE_POINTS: **22,909** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,173** levels
+- THEME_VANILLA: **175,174** levels
 - THEME_RETRO: **43,387** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **156,618** levels
 - Hard: **17,623** levels
-- Parkour: **17,386** levels
+- Parkour: **17,387** levels
 - Art: **12,928** levels
 - Chill: **12,814** levels
 - Quick: **11,931** levels
@@ -35,10 +35,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Practice: **5,882** levels
 - Prank: **4,446** levels
 - Puzzle: **3,152** levels
-- Co-op: **2,892** levels
+- Co-op: **2,893** levels
 ### Platforms
 - switch: **57,767** levels
-- ps5: **51,658** levels
+- ps5: **51,659** levels
 - ps4: **36,178** levels
 - pc_egs: **34,362** levels
 - xsx: **19,581** levels
@@ -64,7 +64,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Chill Your Beans: **4,779** levels
 - Long Wall: **4,526** levels
 - Clumsy Shuffle: **4,460** levels
-- Falloween: **4,436** levels
+- Falloween: **4,437** levels
 - Orbital Tumbling: **4,429** levels
 - Falling (in Love) on the Dancefloor: **4,318** levels
 - Fall For The Team: **4,289** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,019** levels
+- 21.3.1: **12,020** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,502** levels
-- Explore: **4,566** levels
+- FGAnalyst: **211,500** levels
+- Explore: **4,569** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
