@@ -10,26 +10,26 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,646**
+- Total indexed levels: **~219,647**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,077** levels
-- GAMEMODE_SURVIVAL: **31,528** levels
+- GAMEMODE_SURVIVAL: **31,529** levels
 - GAMEMODE_POINTS: **22,903** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,130** levels
+- THEME_VANILLA: **175,131** levels
 - THEME_RETRO: **43,377** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **156,585** levels
-- Hard: **17,612** levels
+- Hard: **17,613** levels
 - Parkour: **17,382** levels
 - Art: **12,927** levels
 - Chill: **12,812** levels
 - Quick: **11,926** levels
-- Hangout: **11,060** levels
+- Hangout: **11,061** levels
 - Long: **7,821** levels
 - falljam: **5,888** levels
 - Practice: **5,881** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,148** levels
 - Co-op: **2,892** levels
 ### Platforms
-- switch: **57,748** levels
+- switch: **57,749** levels
 - ps5: **51,638** levels
 - ps4: **36,172** levels
 - pc_egs: **34,355** levels
@@ -71,7 +71,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,214** levels
 - Carousel Stumble: **4,084** levels
 - Chimney Bean Bebop: **3,816** levels
-- Temple Tumble: **3,749** levels
+- Temple Tumble: **3,750** levels
 - Survive The Fall: **3,595** levels
 - Fall for the Queen Bean: **3,406** levels
 - Future Utobeania: **2,852** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,966** levels
+- 21.3.1: **11,967** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,511** levels
-- Explore: **4,504** levels
+- Explore: **4,505** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
