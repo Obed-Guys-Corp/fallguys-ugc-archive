@@ -10,15 +10,15 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,648**
+- Total indexed levels: **~219,649**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,077** levels
-- GAMEMODE_SURVIVAL: **31,530** levels
+- GAMEMODE_SURVIVAL: **31,531** levels
 - GAMEMODE_POINTS: **22,903** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,132** levels
+- THEME_VANILLA: **175,133** levels
 - THEME_RETRO: **43,377** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
@@ -31,14 +31,14 @@ Please note that level snapshots have been minified as much as possible, some de
 - Quick: **11,926** levels
 - Hangout: **11,062** levels
 - Long: **7,821** levels
-- falljam: **5,888** levels
+- falljam: **5,889** levels
 - Practice: **5,881** levels
 - Prank: **4,445** levels
-- Puzzle: **3,148** levels
+- Puzzle: **3,149** levels
 - Co-op: **2,892** levels
 ### Platforms
 - switch: **57,750** levels
-- ps5: **51,638** levels
+- ps5: **51,639** levels
 - ps4: **36,172** levels
 - pc_egs: **34,355** levels
 - xsx: **19,580** levels
@@ -71,7 +71,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,214** levels
 - Carousel Stumble: **4,084** levels
 - Chimney Bean Bebop: **3,816** levels
-- Temple Tumble: **3,751** levels
+- Temple Tumble: **3,752** levels
 - Survive The Fall: **3,595** levels
 - Fall for the Queen Bean: **3,406** levels
 - Future Utobeania: **2,852** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **11,968** levels
+- 21.3.1: **11,969** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,510** levels
-- Explore: **4,507** levels
+- Explore: **4,508** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
