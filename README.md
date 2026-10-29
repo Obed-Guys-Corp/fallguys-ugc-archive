@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,777**
+- Total indexed levels: **~219,778**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,184** levels
-- GAMEMODE_SURVIVAL: **31,542** levels
+- GAMEMODE_SURVIVAL: **31,543** levels
 - GAMEMODE_POINTS: **22,913** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,232** levels
+- THEME_VANILLA: **175,233** levels
 - THEME_RETRO: **43,406** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,679** levels
+- None: **156,680** levels
 - Hard: **17,630** levels
 - Parkour: **17,393** levels
 - Art: **12,932** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,893** levels
 ### Platforms
 - switch: **57,790** levels
-- ps5: **51,681** levels
+- ps5: **51,682** levels
 - ps4: **36,195** levels
 - pc_egs: **34,371** levels
 - xsx: **19,585** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,294** levels
+- Fall 'n' Roll: **65,295** levels
 - Digifal Guys: **17,310** levels
 - Final Fall: **9,274** levels
 - Tentacle Tantrum: **8,863** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,096** levels
+- 21.3.1: **12,097** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,452** levels
-- Explore: **4,694** levels
+- Explore: **4,695** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
