@@ -10,23 +10,23 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~219,827**
+- Total indexed levels: **~219,828**
 - Size: **~17.2 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **164,218** levels
+- GAMEMODE_GAUNTLET: **164,219** levels
 - GAMEMODE_SURVIVAL: **31,551** levels
 - GAMEMODE_POINTS: **22,920** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,272** levels
+- THEME_VANILLA: **175,273** levels
 - THEME_RETRO: **43,416** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **156,718** levels
-- Hard: **17,636** levels
+- Hard: **17,637** levels
 - Parkour: **17,395** levels
-- Art: **12,936** levels
+- Art: **12,937** levels
 - Chill: **12,819** levels
 - Quick: **11,931** levels
 - Hangout: **11,072** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **57,811** levels
 - ps5: **51,698** levels
-- ps4: **36,196** levels
+- ps4: **36,197** levels
 - pc_egs: **34,379** levels
 - xsx: **19,586** levels
 - xb1: **7,770** levels
@@ -64,7 +64,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Chill Your Beans: **4,780** levels
 - Long Wall: **4,530** levels
 - Clumsy Shuffle: **4,463** levels
-- Falloween: **4,439** levels
+- Falloween: **4,440** levels
 - Orbital Tumbling: **4,430** levels
 - Falling (in Love) on the Dancefloor: **4,320** levels
 - Fall For The Team: **4,290** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,146** levels
+- 21.3.1: **12,147** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,444** levels
-- Explore: **4,752** levels
+- Explore: **4,753** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
