@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,198**
+- Total indexed levels: **~220,199**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,504** levels
-- GAMEMODE_SURVIVAL: **31,587** levels
+- GAMEMODE_SURVIVAL: **31,588** levels
 - GAMEMODE_POINTS: **22,969** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,567** levels
+- THEME_VANILLA: **175,568** levels
 - THEME_RETRO: **43,492** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,990** levels
+- None: **156,991** levels
 - Hard: **17,666** levels
 - Parkour: **17,416** levels
 - Art: **12,962** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **57,958** levels
 - ps5: **51,784** levels
-- ps4: **36,240** levels
+- ps4: **36,241** levels
 - pc_egs: **34,424** levels
 - xsx: **19,618** levels
 - xb1: **7,781** levels
@@ -74,7 +74,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Temple Tumble: **3,758** levels
 - Survive The Fall: **3,612** levels
 - Fall for the Queen Bean: **3,417** levels
-- Future Utobeania: **2,860** levels
+- Future Utobeania: **2,861** levels
 - Rumbling Waterfall: **2,852** levels
 - Crown Stack Overflow: **2,607** levels
 - Satellite Scramble: **2,512** levels
@@ -88,7 +88,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Sir Falls-A-Lot (William Fell): **1,499** levels
 - Virtual Beanity: **1,447** levels
 ### Versions
-- 21.3.0: **24,883** levels
+- 21.3.0: **24,884** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,357** levels
-- Explore: **5,210** levels
+- FGAnalyst: **211,349** levels
+- Explore: **5,219** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
