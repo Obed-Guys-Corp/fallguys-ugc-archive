@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,108**
+- Total indexed levels: **~220,110**
 - Size: **~17.2 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,434** levels
-- GAMEMODE_SURVIVAL: **31,579** levels
+- GAMEMODE_SURVIVAL: **31,581** levels
 - GAMEMODE_POINTS: **22,957** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,496** levels
+- THEME_VANILLA: **175,498** levels
 - THEME_RETRO: **43,473** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,931** levels
+- None: **156,933** levels
 - Hard: **17,657** levels
 - Parkour: **17,408** levels
 - Art: **12,955** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,156** levels
 - Co-op: **2,897** levels
 ### Platforms
-- switch: **57,910** levels
+- switch: **57,912** levels
 - ps5: **51,772** levels
 - ps4: **36,228** levels
 - pc_egs: **34,415** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,394** levels
+- Fall 'n' Roll: **65,395** levels
 - Digifal Guys: **17,340** levels
 - Final Fall: **9,292** levels
 - Tentacle Tantrum: **8,871** levels
@@ -84,7 +84,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Sunken Seacrets: **2,197** levels
 - Beanary Computing: **2,172** levels
 - Main Room Beanstep: **2,040** levels
-- Skis On Beans: **1,574** levels
+- Skis On Beans: **1,575** levels
 - Sir Falls-A-Lot (William Fell): **1,499** levels
 - Virtual Beanity: **1,447** levels
 ### Versions
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,425** levels
+- 21.3.1: **12,427** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,375** levels
-- Explore: **5,102** levels
+- Explore: **5,104** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
