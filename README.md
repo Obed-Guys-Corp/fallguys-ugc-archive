@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,107**
+- Total indexed levels: **~220,108**
 - Size: **~17.2 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **164,433** levels
+- GAMEMODE_GAUNTLET: **164,434** levels
 - GAMEMODE_SURVIVAL: **31,579** levels
 - GAMEMODE_POINTS: **22,957** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,495** levels
+- THEME_VANILLA: **175,496** levels
 - THEME_RETRO: **43,473** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,930** levels
+- None: **156,931** levels
 - Hard: **17,657** levels
 - Parkour: **17,408** levels
 - Art: **12,955** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,156** levels
 - Co-op: **2,897** levels
 ### Platforms
-- switch: **57,909** levels
+- switch: **57,910** levels
 - ps5: **51,772** levels
 - ps4: **36,228** levels
 - pc_egs: **34,415** levels
@@ -60,7 +60,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Yatta Yatta: **6,232** levels
 - Random: **5,219** levels
 - Scubabeans: **5,071** levels
-- Beans of the Round Table: **5,018** levels
+- Beans of the Round Table: **5,019** levels
 - Chill Your Beans: **4,788** levels
 - Long Wall: **4,536** levels
 - Clumsy Shuffle: **4,467** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,424** levels
+- 21.3.1: **12,425** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,384** levels
-- Explore: **5,092** levels
+- FGAnalyst: **211,375** levels
+- Explore: **5,102** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
