@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,212**
+- Total indexed levels: **~220,214**
 - Size: **~17.2 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **164,507** levels
+- GAMEMODE_GAUNTLET: **164,509** levels
 - GAMEMODE_SURVIVAL: **31,598** levels
 - GAMEMODE_POINTS: **22,969** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,577** levels
+- THEME_VANILLA: **175,579** levels
 - THEME_RETRO: **43,496** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **156,999** levels
+- None: **157,001** levels
 - Hard: **17,668** levels
 - Parkour: **17,417** levels
 - Art: **12,962** levels
@@ -38,8 +38,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,898** levels
 ### Platforms
 - switch: **57,961** levels
-- ps5: **51,788** levels
-- ps4: **36,241** levels
+- ps5: **51,789** levels
+- ps4: **36,242** levels
 - pc_egs: **34,430** levels
 - xsx: **19,618** levels
 - xb1: **7,781** levels
@@ -51,12 +51,12 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,417** levels
+- Fall 'n' Roll: **65,418** levels
 - Digifal Guys: **17,348** levels
 - Final Fall: **9,295** levels
 - Tentacle Tantrum: **8,878** levels
 - Falling Stars (Chugu Bam Bam): **7,406** levels
-- Bean Thieves: **7,342** levels
+- Bean Thieves: **7,343** levels
 - Yatta Yatta: **6,236** levels
 - Random: **5,219** levels
 - Scubabeans: **5,072** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,527** levels
+- 21.3.1: **12,529** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,343** levels
-- Explore: **5,238** levels
+- Explore: **5,240** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
