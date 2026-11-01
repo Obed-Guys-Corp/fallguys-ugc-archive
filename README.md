@@ -10,39 +10,39 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,214**
+- Total indexed levels: **~220,237**
 - Size: **~17.2 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **164,509** levels
+- GAMEMODE_GAUNTLET: **164,528** levels
 - GAMEMODE_SURVIVAL: **31,598** levels
-- GAMEMODE_POINTS: **22,969** levels
+- GAMEMODE_POINTS: **22,973** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,579** levels
-- THEME_RETRO: **43,496** levels
+- THEME_VANILLA: **175,596** levels
+- THEME_RETRO: **43,502** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,001** levels
-- Hard: **17,668** levels
-- Parkour: **17,417** levels
+- None: **157,020** levels
+- Hard: **17,669** levels
+- Parkour: **17,418** levels
 - Art: **12,962** levels
-- Chill: **12,846** levels
-- Quick: **11,946** levels
+- Chill: **12,847** levels
+- Quick: **11,947** levels
 - Hangout: **11,103** levels
-- Long: **7,841** levels
-- falljam: **5,899** levels
-- Practice: **5,890** levels
+- Long: **7,842** levels
+- falljam: **5,900** levels
+- Practice: **5,891** levels
 - Prank: **4,457** levels
 - Puzzle: **3,158** levels
 - Co-op: **2,898** levels
 ### Platforms
-- switch: **57,961** levels
-- ps5: **51,789** levels
-- ps4: **36,242** levels
-- pc_egs: **34,430** levels
+- switch: **57,969** levels
+- ps5: **51,796** levels
+- ps4: **36,245** levels
+- pc_egs: **34,434** levels
 - xsx: **19,618** levels
-- xb1: **7,781** levels
+- xb1: **7,782** levels
 - pc_steam: **6,211** levels
 - win: **6,170** levels
 - android_ega: **4** levels
@@ -51,18 +51,18 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,418** levels
-- Digifal Guys: **17,348** levels
-- Final Fall: **9,295** levels
-- Tentacle Tantrum: **8,878** levels
-- Falling Stars (Chugu Bam Bam): **7,406** levels
-- Bean Thieves: **7,343** levels
+- Fall 'n' Roll: **65,426** levels
+- Digifal Guys: **17,351** levels
+- Final Fall: **9,297** levels
+- Tentacle Tantrum: **8,879** levels
+- Falling Stars (Chugu Bam Bam): **7,407** levels
+- Bean Thieves: **7,344** levels
 - Yatta Yatta: **6,236** levels
 - Random: **5,219** levels
-- Scubabeans: **5,072** levels
-- Beans of the Round Table: **5,019** levels
+- Scubabeans: **5,073** levels
+- Beans of the Round Table: **5,020** levels
 - Chill Your Beans: **4,790** levels
-- Long Wall: **4,540** levels
+- Long Wall: **4,542** levels
 - Clumsy Shuffle: **4,471** levels
 - Falloween: **4,454** levels
 - Orbital Tumbling: **4,440** levels
@@ -70,7 +70,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Fall For The Team: **4,299** levels
 - DnB (Drum & Beans): **4,225** levels
 - Carousel Stumble: **4,095** levels
-- Chimney Bean Bebop: **3,822** levels
+- Chimney Bean Bebop: **3,823** levels
 - Temple Tumble: **3,758** levels
 - Survive The Fall: **3,613** levels
 - Fall for the Queen Bean: **3,417** levels
@@ -86,7 +86,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Main Room Beanstep: **2,042** levels
 - Skis On Beans: **1,575** levels
 - Sir Falls-A-Lot (William Fell): **1,499** levels
-- Virtual Beanity: **1,447** levels
+- Virtual Beanity: **1,449** levels
 ### Versions
 - 21.3.0: **24,884** levels
 - 21.2.0: **16,431** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,529** levels
+- 21.3.1: **12,552** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **211,343** levels
-- Explore: **5,240** levels
+- Explore: **5,263** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
