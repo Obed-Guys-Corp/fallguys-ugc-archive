@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,492**
+- Total indexed levels: **~220,497**
 - Size: **~17.3 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **164,722** levels
+- GAMEMODE_GAUNTLET: **164,726** levels
 - GAMEMODE_SURVIVAL: **31,629** levels
-- GAMEMODE_POINTS: **23,003** levels
+- GAMEMODE_POINTS: **23,004** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,796** levels
+- THEME_VANILLA: **175,801** levels
 - THEME_RETRO: **43,557** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,209** levels
+- None: **157,214** levels
 - Hard: **17,693** levels
 - Parkour: **17,441** levels
 - Art: **12,976** levels
@@ -38,10 +38,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,899** levels
 ### Platforms
 - switch: **58,059** levels
-- ps5: **51,874** levels
-- ps4: **36,283** levels
+- ps5: **51,877** levels
+- ps4: **36,284** levels
 - pc_egs: **34,451** levels
-- xsx: **19,637** levels
+- xsx: **19,638** levels
 - xb1: **7,791** levels
 - pc_steam: **6,215** levels
 - win: **6,170** levels
@@ -51,15 +51,15 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,497** levels
+- Fall 'n' Roll: **65,498** levels
 - Digifal Guys: **17,374** levels
 - Final Fall: **9,303** levels
-- Tentacle Tantrum: **8,887** levels
+- Tentacle Tantrum: **8,888** levels
 - Falling Stars (Chugu Bam Bam): **7,419** levels
 - Bean Thieves: **7,354** levels
 - Yatta Yatta: **6,243** levels
 - Random: **5,219** levels
-- Scubabeans: **5,079** levels
+- Scubabeans: **5,080** levels
 - Beans of the Round Table: **5,028** levels
 - Chill Your Beans: **4,796** levels
 - Long Wall: **4,549** levels
@@ -69,8 +69,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - Falling (in Love) on the Dancefloor: **4,331** levels
 - Fall For The Team: **4,304** levels
 - DnB (Drum & Beans): **4,234** levels
-- Carousel Stumble: **4,099** levels
-- Chimney Bean Bebop: **3,827** levels
+- Carousel Stumble: **4,100** levels
+- Chimney Bean Bebop: **3,828** levels
 - Temple Tumble: **3,761** levels
 - Survive The Fall: **3,615** levels
 - Fall for the Queen Bean: **3,419** levels
@@ -95,7 +95,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
-- 21.3.1: **12,804** levels
+- 21.3.1: **12,809** levels
 - 11.0.1: **10,398** levels
 - 11.2.0: **9,287** levels
 - 11.3.0: **8,798** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,255** levels
-- Explore: **5,606** levels
+- FGAnalyst: **211,252** levels
+- Explore: **5,614** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
