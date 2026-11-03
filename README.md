@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~220,670**
+- Total indexed levels: **~220,671**
 - Size: **~17.3 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **164,863** levels
-- GAMEMODE_SURVIVAL: **31,650** levels
+- GAMEMODE_SURVIVAL: **31,651** levels
 - GAMEMODE_POINTS: **23,019** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **175,944** levels
+- THEME_VANILLA: **175,945** levels
 - THEME_RETRO: **43,587** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,337** levels
+- None: **157,338** levels
 - Hard: **17,710** levels
 - Parkour: **17,459** levels
 - Art: **12,984** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,133** levels
 - ps5: **51,920** levels
 - ps4: **36,306** levels
-- pc_egs: **34,469** levels
+- pc_egs: **34,470** levels
 - xsx: **19,648** levels
 - xb1: **7,796** levels
 - pc_steam: **6,216** levels
@@ -60,7 +60,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Yatta Yatta: **6,245** levels
 - Random: **5,219** levels
 - Scubabeans: **5,081** levels
-- Beans of the Round Table: **5,033** levels
+- Beans of the Round Table: **5,034** levels
 - Chill Your Beans: **4,799** levels
 - Long Wall: **4,551** levels
 - Clumsy Shuffle: **4,488** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **12,982** levels
+- 21.3.1: **12,983** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,186** levels
-- Explore: **5,853** levels
+- FGAnalyst: **211,179** levels
+- Explore: **5,861** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
