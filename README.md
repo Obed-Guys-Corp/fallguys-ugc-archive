@@ -11,7 +11,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ## Statistics
 <!-- stats begin -->
 - Total indexed levels: **~221,372**
-- Size: **~17.3 GB**
+- Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,371** levels
 - GAMEMODE_SURVIVAL: **31,756** levels
