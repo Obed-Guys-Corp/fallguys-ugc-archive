@@ -10,35 +10,35 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,316**
+- Total indexed levels: **~221,323**
 - Size: **~17.3 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **165,335** levels
-- GAMEMODE_SURVIVAL: **31,744** levels
+- GAMEMODE_GAUNTLET: **165,340** levels
+- GAMEMODE_SURVIVAL: **31,746** levels
 - GAMEMODE_POINTS: **23,099** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,457** levels
-- THEME_RETRO: **43,720** levels
+- THEME_VANILLA: **176,462** levels
+- THEME_RETRO: **43,722** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,807** levels
-- Hard: **17,759** levels
+- None: **157,812** levels
+- Hard: **17,760** levels
 - Parkour: **17,491** levels
 - Art: **13,025** levels
-- Chill: **12,899** levels
+- Chill: **12,900** levels
 - Quick: **11,990** levels
-- Hangout: **11,184** levels
-- Long: **7,876** levels
+- Hangout: **11,185** levels
+- Long: **7,877** levels
 - falljam: **5,926** levels
 - Practice: **5,925** levels
 - Prank: **4,475** levels
 - Puzzle: **3,168** levels
 - Co-op: **2,909** levels
 ### Platforms
-- switch: **58,347** levels
-- ps5: **52,076** levels
+- switch: **58,352** levels
+- ps5: **52,078** levels
 - ps4: **36,380** levels
 - pc_egs: **34,599** levels
 - xsx: **19,696** levels
@@ -51,16 +51,16 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,742** levels
+- Fall 'n' Roll: **65,745** levels
 - Digifal Guys: **17,446** levels
-- Final Fall: **9,336** levels
+- Final Fall: **9,337** levels
 - Tentacle Tantrum: **8,925** levels
-- Falling Stars (Chugu Bam Bam): **7,443** levels
+- Falling Stars (Chugu Bam Bam): **7,444** levels
 - Bean Thieves: **7,383** levels
 - Yatta Yatta: **6,260** levels
 - Random: **5,218** levels
-- Scubabeans: **5,093** levels
-- Beans of the Round Table: **5,050** levels
+- Scubabeans: **5,094** levels
+- Beans of the Round Table: **5,051** levels
 - Chill Your Beans: **4,821** levels
 - Long Wall: **4,559** levels
 - Clumsy Shuffle: **4,501** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,625** levels
+- 21.3.1: **13,632** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **211,009** levels
-- Explore: **6,676** levels
+- FGAnalyst: **210,984** levels
+- Explore: **6,708** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
