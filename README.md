@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,556**
+- Total indexed levels: **~221,557**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,508** levels
-- GAMEMODE_SURVIVAL: **31,778** levels
+- GAMEMODE_SURVIVAL: **31,779** levels
 - GAMEMODE_POINTS: **23,132** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,655** levels
+- THEME_VANILLA: **176,656** levels
 - THEME_RETRO: **43,762** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,967** levels
+- None: **157,968** levels
 - Hard: **17,781** levels
 - Parkour: **17,515** levels
 - Art: **13,044** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,175** levels
 - Co-op: **2,911** levels
 ### Platforms
-- switch: **58,431** levels
+- switch: **58,432** levels
 - ps5: **52,143** levels
 - ps4: **36,413** levels
 - pc_egs: **34,629** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,806** levels
+- Fall 'n' Roll: **65,807** levels
 - Digifal Guys: **17,463** levels
 - Final Fall: **9,345** levels
 - Tentacle Tantrum: **8,937** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,865** levels
+- 21.3.1: **13,866** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,934** levels
-- Explore: **6,991** levels
+- Explore: **6,992** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
