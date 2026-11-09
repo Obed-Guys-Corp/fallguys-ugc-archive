@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,557**
+- Total indexed levels: **~221,558**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,508** levels
-- GAMEMODE_SURVIVAL: **31,779** levels
+- GAMEMODE_SURVIVAL: **31,780** levels
 - GAMEMODE_POINTS: **23,132** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,656** levels
+- THEME_VANILLA: **176,657** levels
 - THEME_RETRO: **43,762** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,968** levels
+- None: **157,969** levels
 - Hard: **17,781** levels
 - Parkour: **17,515** levels
 - Art: **13,044** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,911** levels
 ### Platforms
 - switch: **58,432** levels
-- ps5: **52,143** levels
+- ps5: **52,144** levels
 - ps4: **36,413** levels
 - pc_egs: **34,629** levels
 - xsx: **19,704** levels
@@ -78,7 +78,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Rumbling Waterfall: **2,868** levels
 - Crown Stack Overflow: **2,619** levels
 - Satellite Scramble: **2,535** levels
-- Winter Fallympics: **2,399** levels
+- Winter Fallympics: **2,400** levels
 - Grand Festifall: **2,327** levels
 - Of Fables And Falling: **2,285** levels
 - Sunken Seacrets: **2,214** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,866** levels
+- 21.3.1: **13,867** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,934** levels
-- Explore: **6,992** levels
+- FGAnalyst: **210,931** levels
+- Explore: **6,996** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
