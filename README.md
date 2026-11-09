@@ -10,23 +10,23 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,586**
+- Total indexed levels: **~221,588**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,531** levels
-- GAMEMODE_SURVIVAL: **31,782** levels
+- GAMEMODE_SURVIVAL: **31,784** levels
 - GAMEMODE_POINTS: **23,135** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,678** levels
+- THEME_VANILLA: **176,680** levels
 - THEME_RETRO: **43,769** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,988** levels
-- Hard: **17,784** levels
+- None: **157,989** levels
+- Hard: **17,785** levels
 - Parkour: **17,516** levels
-- Art: **13,044** levels
+- Art: **13,045** levels
 - Chill: **12,918** levels
 - Quick: **12,008** levels
 - Hangout: **11,204** levels
@@ -39,8 +39,8 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **58,448** levels
 - ps5: **52,151** levels
-- ps4: **36,414** levels
-- pc_egs: **34,633** levels
+- ps4: **36,415** levels
+- pc_egs: **34,634** levels
 - xsx: **19,704** levels
 - xb1: **7,832** levels
 - pc_steam: **6,222** levels
@@ -63,7 +63,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Beans of the Round Table: **5,059** levels
 - Chill Your Beans: **4,826** levels
 - Long Wall: **4,571** levels
-- Clumsy Shuffle: **4,508** levels
+- Clumsy Shuffle: **4,509** levels
 - Falloween: **4,495** levels
 - Orbital Tumbling: **4,455** levels
 - Falling (in Love) on the Dancefloor: **4,346** levels
@@ -80,7 +80,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Satellite Scramble: **2,536** levels
 - Winter Fallympics: **2,400** levels
 - Grand Festifall: **2,327** levels
-- Of Fables And Falling: **2,286** levels
+- Of Fables And Falling: **2,287** levels
 - Sunken Seacrets: **2,214** levels
 - Beanary Computing: **2,184** levels
 - Main Room Beanstep: **2,052** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,895** levels
+- 21.3.1: **13,897** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,928** levels
-- Explore: **7,027** levels
+- Explore: **7,029** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
