@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,527**
+- Total indexed levels: **~221,528**
 - Size: **~17.4 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **165,485** levels
+- GAMEMODE_GAUNTLET: **165,486** levels
 - GAMEMODE_SURVIVAL: **31,774** levels
 - GAMEMODE_POINTS: **23,130** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,631** levels
+- THEME_VANILLA: **176,632** levels
 - THEME_RETRO: **43,757** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **157,949** levels
+- None: **157,950** levels
 - Hard: **17,775** levels
 - Parkour: **17,511** levels
 - Art: **13,043** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,424** levels
 - ps5: **52,131** levels
 - ps4: **36,410** levels
-- pc_egs: **34,624** levels
+- pc_egs: **34,625** levels
 - xsx: **19,703** levels
 - xb1: **7,831** levels
 - pc_steam: **6,222** levels
@@ -54,7 +54,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Fall 'n' Roll: **65,799** levels
 - Digifal Guys: **17,462** levels
 - Final Fall: **9,344** levels
-- Tentacle Tantrum: **8,935** levels
+- Tentacle Tantrum: **8,936** levels
 - Falling Stars (Chugu Bam Bam): **7,451** levels
 - Bean Thieves: **7,390** levels
 - Yatta Yatta: **6,266** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,836** levels
+- 21.3.1: **13,837** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,934** levels
-- Explore: **6,962** levels
+- Explore: **6,963** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
