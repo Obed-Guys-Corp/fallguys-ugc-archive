@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,626**
+- Total indexed levels: **~221,627**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,563** levels
-- GAMEMODE_SURVIVAL: **31,787** levels
+- GAMEMODE_SURVIVAL: **31,788** levels
 - GAMEMODE_POINTS: **23,138** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,710** levels
+- THEME_VANILLA: **176,711** levels
 - THEME_RETRO: **43,777** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,019** levels
+- None: **158,020** levels
 - Hard: **17,788** levels
 - Parkour: **17,517** levels
 - Art: **13,047** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,457** levels
 - ps5: **52,162** levels
 - ps4: **36,422** levels
-- pc_egs: **34,640** levels
+- pc_egs: **34,641** levels
 - xsx: **19,708** levels
 - xb1: **7,833** levels
 - pc_steam: **6,222** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,822** levels
+- Fall 'n' Roll: **65,823** levels
 - Digifal Guys: **17,472** levels
 - Final Fall: **9,348** levels
 - Tentacle Tantrum: **8,940** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **13,935** levels
+- 21.3.1: **13,936** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,927** levels
-- Explore: **7,068** levels
+- Explore: **7,069** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
