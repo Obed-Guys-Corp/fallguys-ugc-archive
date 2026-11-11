@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,741**
+- Total indexed levels: **~221,744**
 - Size: **~17.4 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **165,658** levels
+- GAMEMODE_GAUNTLET: **165,661** levels
 - GAMEMODE_SURVIVAL: **31,798** levels
 - GAMEMODE_POINTS: **23,147** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,805** levels
-- THEME_RETRO: **43,797** levels
+- THEME_VANILLA: **176,807** levels
+- THEME_RETRO: **43,798** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,104** levels
+- None: **158,107** levels
 - Hard: **17,796** levels
 - Parkour: **17,526** levels
 - Art: **13,054** levels
@@ -37,9 +37,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,177** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,497** levels
-- ps5: **52,191** levels
-- ps4: **36,440** levels
+- switch: **58,498** levels
+- ps5: **52,192** levels
+- ps4: **36,441** levels
 - pc_egs: **34,657** levels
 - xsx: **19,716** levels
 - xb1: **7,836** levels
@@ -52,8 +52,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - ports3_1: **1** level
 ### Music
 - Fall 'n' Roll: **65,869** levels
-- Digifal Guys: **17,484** levels
-- Final Fall: **9,351** levels
+- Digifal Guys: **17,485** levels
+- Final Fall: **9,352** levels
 - Tentacle Tantrum: **8,945** levels
 - Falling Stars (Chugu Bam Bam): **7,454** levels
 - Bean Thieves: **7,398** levels
@@ -73,7 +73,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Chimney Bean Bebop: **3,862** levels
 - Temple Tumble: **3,784** levels
 - Survive The Fall: **3,634** levels
-- Fall for the Queen Bean: **3,436** levels
+- Fall for the Queen Bean: **3,437** levels
 - Future Utobeania: **2,889** levels
 - Rumbling Waterfall: **2,871** levels
 - Crown Stack Overflow: **2,619** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,050** levels
+- 21.3.1: **14,053** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,883** levels
-- Explore: **7,227** levels
+- Explore: **7,230** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
