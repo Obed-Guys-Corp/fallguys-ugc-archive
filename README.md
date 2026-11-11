@@ -10,39 +10,39 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,692**
+- Total indexed levels: **~221,737**
 - Size: **~17.4 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **165,615** levels
+- GAMEMODE_GAUNTLET: **165,654** levels
 - GAMEMODE_SURVIVAL: **31,798** levels
-- GAMEMODE_POINTS: **23,141** levels
+- GAMEMODE_POINTS: **23,147** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,770** levels
-- THEME_RETRO: **43,783** levels
+- THEME_VANILLA: **176,801** levels
+- THEME_RETRO: **43,797** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,066** levels
-- Hard: **17,795** levels
-- Parkour: **17,523** levels
-- Art: **13,050** levels
-- Chill: **12,920** levels
-- Quick: **12,013** levels
-- Hangout: **11,213** levels
+- None: **158,100** levels
+- Hard: **17,796** levels
+- Parkour: **17,526** levels
+- Art: **13,054** levels
+- Chill: **12,921** levels
+- Quick: **12,018** levels
+- Hangout: **11,215** levels
 - Long: **7,889** levels
 - Practice: **5,937** levels
 - falljam: **5,937** levels
-- Prank: **4,480** levels
-- Puzzle: **3,175** levels
+- Prank: **4,481** levels
+- Puzzle: **3,177** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,482** levels
-- ps5: **52,181** levels
-- ps4: **36,430** levels
-- pc_egs: **34,646** levels
-- xsx: **19,714** levels
-- xb1: **7,835** levels
+- switch: **58,496** levels
+- ps5: **52,190** levels
+- ps4: **36,439** levels
+- pc_egs: **34,656** levels
+- xsx: **19,716** levels
+- xb1: **7,836** levels
 - pc_steam: **6,222** levels
 - win: **6,170** levels
 - android_ega: **4** levels
@@ -51,40 +51,40 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,850** levels
-- Digifal Guys: **17,477** levels
-- Final Fall: **9,350** levels
-- Tentacle Tantrum: **8,943** levels
-- Falling Stars (Chugu Bam Bam): **7,453** levels
-- Bean Thieves: **7,396** levels
-- Yatta Yatta: **6,269** levels
+- Fall 'n' Roll: **65,866** levels
+- Digifal Guys: **17,484** levels
+- Final Fall: **9,351** levels
+- Tentacle Tantrum: **8,945** levels
+- Falling Stars (Chugu Bam Bam): **7,454** levels
+- Bean Thieves: **7,398** levels
+- Yatta Yatta: **6,270** levels
 - Random: **5,218** levels
-- Scubabeans: **5,102** levels
+- Scubabeans: **5,103** levels
 - Beans of the Round Table: **5,060** levels
 - Chill Your Beans: **4,830** levels
-- Long Wall: **4,572** levels
+- Long Wall: **4,573** levels
 - Clumsy Shuffle: **4,510** levels
 - Falloween: **4,499** levels
-- Orbital Tumbling: **4,457** levels
-- Falling (in Love) on the Dancefloor: **4,347** levels
+- Orbital Tumbling: **4,458** levels
+- Falling (in Love) on the Dancefloor: **4,348** levels
 - Fall For The Team: **4,323** levels
-- DnB (Drum & Beans): **4,262** levels
+- DnB (Drum & Beans): **4,265** levels
 - Carousel Stumble: **4,123** levels
-- Chimney Bean Bebop: **3,861** levels
+- Chimney Bean Bebop: **3,862** levels
 - Temple Tumble: **3,784** levels
 - Survive The Fall: **3,634** levels
-- Fall for the Queen Bean: **3,434** levels
-- Future Utobeania: **2,888** levels
-- Rumbling Waterfall: **2,870** levels
+- Fall for the Queen Bean: **3,436** levels
+- Future Utobeania: **2,889** levels
+- Rumbling Waterfall: **2,871** levels
 - Crown Stack Overflow: **2,619** levels
 - Satellite Scramble: **2,539** levels
-- Winter Fallympics: **2,403** levels
-- Grand Festifall: **2,328** levels
+- Winter Fallympics: **2,404** levels
+- Grand Festifall: **2,329** levels
 - Of Fables And Falling: **2,287** levels
 - Sunken Seacrets: **2,217** levels
 - Beanary Computing: **2,186** levels
 - Main Room Beanstep: **2,052** levels
-- Skis On Beans: **1,587** levels
+- Skis On Beans: **1,588** levels
 - Sir Falls-A-Lot (William Fell): **1,503** levels
 - Virtual Beanity: **1,459** levels
 ### Versions
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,001** levels
+- 21.3.1: **14,046** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,887** levels
-- Explore: **7,174** levels
+- FGAnalyst: **210,883** levels
+- Explore: **7,223** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
