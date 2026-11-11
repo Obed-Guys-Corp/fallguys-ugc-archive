@@ -10,26 +10,26 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,789**
+- Total indexed levels: **~221,793**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,691** levels
-- GAMEMODE_SURVIVAL: **31,805** levels
+- GAMEMODE_SURVIVAL: **31,809** levels
 - GAMEMODE_POINTS: **23,155** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,843** levels
-- THEME_RETRO: **43,807** levels
+- THEME_VANILLA: **176,845** levels
+- THEME_RETRO: **43,809** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,136** levels
-- Hard: **17,798** levels
+- None: **158,139** levels
+- Hard: **17,799** levels
 - Parkour: **17,533** levels
 - Art: **13,060** levels
 - Chill: **12,922** levels
 - Quick: **12,023** levels
-- Hangout: **11,218** levels
+- Hangout: **11,219** levels
 - Long: **7,889** levels
 - Practice: **5,938** levels
 - falljam: **5,937** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,177** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,511** levels
+- switch: **58,515** levels
 - ps5: **52,208** levels
 - ps4: **36,443** levels
 - pc_egs: **34,668** levels
@@ -51,9 +51,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,879** levels
-- Digifal Guys: **17,486** levels
-- Final Fall: **9,355** levels
+- Fall 'n' Roll: **65,880** levels
+- Digifal Guys: **17,487** levels
+- Final Fall: **9,356** levels
 - Tentacle Tantrum: **8,945** levels
 - Falling Stars (Chugu Bam Bam): **7,454** levels
 - Bean Thieves: **7,401** levels
@@ -71,7 +71,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - DnB (Drum & Beans): **4,265** levels
 - Carousel Stumble: **4,123** levels
 - Chimney Bean Bebop: **3,862** levels
-- Temple Tumble: **3,786** levels
+- Temple Tumble: **3,787** levels
 - Survive The Fall: **3,634** levels
 - Fall for the Queen Bean: **3,438** levels
 - Future Utobeania: **2,889** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,098** levels
+- 21.3.1: **14,102** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,865** levels
-- Explore: **7,293** levels
+- FGAnalyst: **210,864** levels
+- Explore: **7,298** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
