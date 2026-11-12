@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,962**
+- Total indexed levels: **~221,963**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,823** levels
-- GAMEMODE_SURVIVAL: **31,832** levels
+- GAMEMODE_SURVIVAL: **31,833** levels
 - GAMEMODE_POINTS: **23,169** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,985** levels
+- THEME_VANILLA: **176,986** levels
 - THEME_RETRO: **43,838** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,257** levels
+- None: **158,258** levels
 - Hard: **17,814** levels
 - Parkour: **17,543** levels
 - Art: **13,079** levels
@@ -41,7 +41,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - ps5: **52,254** levels
 - ps4: **36,461** levels
 - pc_egs: **34,700** levels
-- xsx: **19,739** levels
+- xsx: **19,740** levels
 - xb1: **7,839** levels
 - pc_steam: **6,225** levels
 - win: **6,170** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **65,931** levels
+- Fall 'n' Roll: **65,932** levels
 - Digifal Guys: **17,494** levels
 - Final Fall: **9,365** levels
 - Tentacle Tantrum: **8,954** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,270** levels
+- 21.3.1: **14,271** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,826** levels
-- Explore: **7,505** levels
+- FGAnalyst: **210,824** levels
+- Explore: **7,508** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
