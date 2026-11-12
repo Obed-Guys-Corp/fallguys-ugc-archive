@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,961**
+- Total indexed levels: **~221,962**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,823** levels
-- GAMEMODE_SURVIVAL: **31,831** levels
+- GAMEMODE_SURVIVAL: **31,832** levels
 - GAMEMODE_POINTS: **23,169** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,984** levels
+- THEME_VANILLA: **176,985** levels
 - THEME_RETRO: **43,838** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,256** levels
+- None: **158,257** levels
 - Hard: **17,814** levels
 - Parkour: **17,543** levels
 - Art: **13,079** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,179** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,561** levels
+- switch: **58,562** levels
 - ps5: **52,254** levels
 - ps4: **36,461** levels
 - pc_egs: **34,700** levels
@@ -68,7 +68,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Orbital Tumbling: **4,460** levels
 - Falling (in Love) on the Dancefloor: **4,352** levels
 - Fall For The Team: **4,325** levels
-- DnB (Drum & Beans): **4,274** levels
+- DnB (Drum & Beans): **4,275** levels
 - Carousel Stumble: **4,128** levels
 - Chimney Bean Bebop: **3,864** levels
 - Temple Tumble: **3,788** levels
@@ -88,7 +88,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Sir Falls-A-Lot (William Fell): **1,504** levels
 - Virtual Beanity: **1,463** levels
 ### Versions
-- 21.3.0: **24,889** levels
+- 21.3.0: **24,890** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,826** levels
-- Explore: **7,504** levels
+- Explore: **7,505** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
