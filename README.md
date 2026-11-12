@@ -10,15 +10,15 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,926**
+- Total indexed levels: **~221,927**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,800** levels
-- GAMEMODE_SURVIVAL: **31,823** levels
+- GAMEMODE_SURVIVAL: **31,824** levels
 - GAMEMODE_POINTS: **23,165** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,955** levels
+- THEME_VANILLA: **176,956** levels
 - THEME_RETRO: **43,832** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
@@ -29,15 +29,15 @@ Please note that level snapshots have been minified as much as possible, some de
 - Art: **13,070** levels
 - Chill: **12,924** levels
 - Quick: **12,031** levels
-- Hangout: **11,226** levels
+- Hangout: **11,227** levels
 - Long: **7,895** levels
 - Practice: **5,942** levels
 - falljam: **5,940** levels
-- Prank: **4,485** levels
+- Prank: **4,486** levels
 - Puzzle: **3,179** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,551** levels
+- switch: **58,552** levels
 - ps5: **52,246** levels
 - ps4: **36,457** levels
 - pc_egs: **34,692** levels
@@ -84,7 +84,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Sunken Seacrets: **2,221** levels
 - Beanary Computing: **2,187** levels
 - Main Room Beanstep: **2,057** levels
-- Skis On Beans: **1,588** levels
+- Skis On Beans: **1,589** levels
 - Sir Falls-A-Lot (William Fell): **1,504** levels
 - Virtual Beanity: **1,461** levels
 ### Versions
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,235** levels
+- 21.3.1: **14,236** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,831** levels
-- Explore: **7,464** levels
+- FGAnalyst: **210,829** levels
+- Explore: **7,467** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
