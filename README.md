@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~221,927**
+- Total indexed levels: **~221,928**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **165,800** levels
-- GAMEMODE_SURVIVAL: **31,824** levels
+- GAMEMODE_SURVIVAL: **31,825** levels
 - GAMEMODE_POINTS: **23,165** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **176,956** levels
+- THEME_VANILLA: **176,957** levels
 - THEME_RETRO: **43,832** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,234** levels
+- None: **158,235** levels
 - Hard: **17,814** levels
 - Parkour: **17,543** levels
 - Art: **13,070** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,179** levels
 - Co-op: **2,912** levels
 ### Platforms
-- switch: **58,552** levels
+- switch: **58,553** levels
 - ps5: **52,246** levels
 - ps4: **36,457** levels
 - pc_egs: **34,692** levels
@@ -63,7 +63,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Beans of the Round Table: **5,063** levels
 - Chill Your Beans: **4,833** levels
 - Long Wall: **4,579** levels
-- Clumsy Shuffle: **4,513** levels
+- Clumsy Shuffle: **4,514** levels
 - Falloween: **4,502** levels
 - Orbital Tumbling: **4,460** levels
 - Falling (in Love) on the Dancefloor: **4,352** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,236** levels
+- 21.3.1: **14,237** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,829** levels
-- Explore: **7,467** levels
+- Explore: **7,468** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
