@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,219**
+- Total indexed levels: **~222,220**
 - Size: **~17.4 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,024** levels
+- GAMEMODE_GAUNTLET: **166,025** levels
 - GAMEMODE_SURVIVAL: **31,862** levels
 - GAMEMODE_POINTS: **23,195** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,206** levels
+- THEME_VANILLA: **177,207** levels
 - THEME_RETRO: **43,874** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,442** levels
+- None: **158,443** levels
 - Hard: **17,836** levels
 - Parkour: **17,555** levels
 - Art: **13,094** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,183** levels
 - Co-op: **2,915** levels
 ### Platforms
-- switch: **58,660** levels
+- switch: **58,661** levels
 - ps5: **52,321** levels
 - ps4: **36,499** levels
 - pc_egs: **34,725** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,006** levels
+- Fall 'n' Roll: **66,007** levels
 - Digifal Guys: **17,513** levels
 - Final Fall: **9,372** levels
 - Tentacle Tantrum: **8,960** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,526** levels
+- 21.3.1: **14,527** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,745** levels
-- Explore: **7,842** levels
+- Explore: **7,843** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 <!-- stats end -->
