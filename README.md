@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,205**
+- Total indexed levels: **~222,206**
 - Size: **~17.4 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,011** levels
-- GAMEMODE_SURVIVAL: **31,861** levels
+- GAMEMODE_SURVIVAL: **31,862** levels
 - GAMEMODE_POINTS: **23,195** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,192** levels
+- THEME_VANILLA: **177,193** levels
 - THEME_RETRO: **43,874** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,434** levels
+- None: **158,435** levels
 - Hard: **17,833** levels
 - Parkour: **17,553** levels
 - Art: **13,091** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,915** levels
 ### Platforms
 - switch: **58,655** levels
-- ps5: **52,315** levels
+- ps5: **52,316** levels
 - ps4: **36,498** levels
 - pc_egs: **34,724** levels
 - xsx: **19,757** levels
@@ -76,7 +76,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Fall for the Queen Bean: **3,444** levels
 - Future Utobeania: **2,896** levels
 - Rumbling Waterfall: **2,879** levels
-- Crown Stack Overflow: **2,625** levels
+- Crown Stack Overflow: **2,626** levels
 - Satellite Scramble: **2,543** levels
 - Winter Fallympics: **2,413** levels
 - Grand Festifall: **2,333** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,512** levels
+- 21.3.1: **14,513** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,754** levels
-- Explore: **7,820** levels
+- Explore: **7,821** levels
 - Discord: **3,628** levels
 - BotLookup: **3** levels
 <!-- stats end -->
