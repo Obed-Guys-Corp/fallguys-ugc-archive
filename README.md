@@ -10,27 +10,27 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,220**
+- Total indexed levels: **~222,221**
 - Size: **~17.4 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,025** levels
+- GAMEMODE_GAUNTLET: **166,026** levels
 - GAMEMODE_SURVIVAL: **31,862** levels
 - GAMEMODE_POINTS: **23,195** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,207** levels
+- THEME_VANILLA: **177,208** levels
 - THEME_RETRO: **43,874** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **158,443** levels
 - Hard: **17,836** levels
-- Parkour: **17,555** levels
+- Parkour: **17,556** levels
 - Art: **13,094** levels
 - Chill: **12,942** levels
 - Quick: **12,047** levels
 - Hangout: **11,244** levels
-- Long: **7,906** levels
+- Long: **7,907** levels
 - Practice: **5,953** levels
 - falljam: **5,945** levels
 - Prank: **4,494** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,915** levels
 ### Platforms
 - switch: **58,661** levels
-- ps5: **52,321** levels
+- ps5: **52,322** levels
 - ps4: **36,499** levels
 - pc_egs: **34,725** levels
 - xsx: **19,758** levels
@@ -78,7 +78,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Rumbling Waterfall: **2,879** levels
 - Crown Stack Overflow: **2,626** levels
 - Satellite Scramble: **2,543** levels
-- Winter Fallympics: **2,413** levels
+- Winter Fallympics: **2,414** levels
 - Grand Festifall: **2,333** levels
 - Of Fables And Falling: **2,292** levels
 - Sunken Seacrets: **2,224** levels
@@ -93,7 +93,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
-- 21.3.1: **14,527** levels
+- 21.3.1: **14,528** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
 - 11.0.1: **10,398** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,745** levels
-- Explore: **7,843** levels
+- FGAnalyst: **210,744** levels
+- Explore: **7,845** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 <!-- stats end -->
