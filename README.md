@@ -10,39 +10,39 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,627**
+- Total indexed levels: **~222,639**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,315** levels
-- GAMEMODE_SURVIVAL: **31,925** levels
-- GAMEMODE_POINTS: **23,249** levels
+- GAMEMODE_GAUNTLET: **166,325** levels
+- GAMEMODE_SURVIVAL: **31,926** levels
+- GAMEMODE_POINTS: **23,250** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,531** levels
-- THEME_RETRO: **43,957** levels
+- THEME_VANILLA: **177,541** levels
+- THEME_RETRO: **43,959** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,710** levels
-- Hard: **17,868** levels
-- Parkour: **17,592** levels
-- Art: **13,119** levels
+- None: **158,717** levels
+- Hard: **17,869** levels
+- Parkour: **17,593** levels
+- Art: **13,121** levels
 - Chill: **12,962** levels
 - Quick: **12,086** levels
-- Hangout: **11,270** levels
-- Long: **7,924** levels
-- falljam: **5,968** levels
-- Practice: **5,966** levels
+- Hangout: **11,271** levels
+- Long: **7,925** levels
+- falljam: **5,969** levels
+- Practice: **5,968** levels
 - Prank: **4,503** levels
-- Puzzle: **3,189** levels
+- Puzzle: **3,190** levels
 - Co-op: **2,926** levels
 ### Platforms
-- switch: **58,818** levels
-- ps5: **52,405** levels
-- ps4: **36,545** levels
-- pc_egs: **34,787** levels
-- xsx: **19,806** levels
-- xb1: **7,854** levels
+- switch: **58,821** levels
+- ps5: **52,408** levels
+- ps4: **36,546** levels
+- pc_egs: **34,790** levels
+- xsx: **19,807** levels
+- xb1: **7,855** levels
 - pc_steam: **6,230** levels
 - win: **6,170** levels
 - android_ega: **4** levels
@@ -51,19 +51,19 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,121** levels
+- Fall 'n' Roll: **66,124** levels
 - Digifal Guys: **17,555** levels
-- Final Fall: **9,390** levels
+- Final Fall: **9,391** levels
 - Tentacle Tantrum: **8,981** levels
 - Falling Stars (Chugu Bam Bam): **7,485** levels
-- Bean Thieves: **7,424** levels
-- Yatta Yatta: **6,294** levels
+- Bean Thieves: **7,425** levels
+- Yatta Yatta: **6,295** levels
 - Random: **5,218** levels
 - Scubabeans: **5,121** levels
-- Beans of the Round Table: **5,091** levels
+- Beans of the Round Table: **5,092** levels
 - Chill Your Beans: **4,839** levels
-- Long Wall: **4,600** levels
-- Clumsy Shuffle: **4,526** levels
+- Long Wall: **4,601** levels
+- Clumsy Shuffle: **4,527** levels
 - Falloween: **4,515** levels
 - Orbital Tumbling: **4,473** levels
 - Falling (in Love) on the Dancefloor: **4,366** levels
@@ -72,11 +72,11 @@ Please note that level snapshots have been minified as much as possible, some de
 - Carousel Stumble: **4,142** levels
 - Chimney Bean Bebop: **3,875** levels
 - Temple Tumble: **3,799** levels
-- Survive The Fall: **3,646** levels
+- Survive The Fall: **3,647** levels
 - Fall for the Queen Bean: **3,453** levels
-- Future Utobeania: **2,901** levels
+- Future Utobeania: **2,902** levels
 - Rumbling Waterfall: **2,888** levels
-- Crown Stack Overflow: **2,632** levels
+- Crown Stack Overflow: **2,633** levels
 - Satellite Scramble: **2,550** levels
 - Winter Fallympics: **2,421** levels
 - Grand Festifall: **2,337** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **14,934** levels
+- 21.3.1: **14,946** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,669** levels
-- Explore: **8,326** levels
+- FGAnalyst: **210,668** levels
+- Explore: **8,339** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 <!-- stats end -->
