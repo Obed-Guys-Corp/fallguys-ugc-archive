@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,647**
+- Total indexed levels: **~222,648**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,330** levels
-- GAMEMODE_SURVIVAL: **31,928** levels
+- GAMEMODE_SURVIVAL: **31,929** levels
 - GAMEMODE_POINTS: **23,251** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,546** levels
+- THEME_VANILLA: **177,547** levels
 - THEME_RETRO: **43,962** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,722** levels
+- None: **158,723** levels
 - Hard: **17,871** levels
 - Parkour: **17,593** levels
 - Art: **13,121** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **58,823** levels
 - ps5: **52,409** levels
-- ps4: **36,550** levels
+- ps4: **36,551** levels
 - pc_egs: **34,790** levels
 - xsx: **19,808** levels
 - xb1: **7,855** levels
@@ -61,7 +61,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Random: **5,219** levels
 - Scubabeans: **5,121** levels
 - Beans of the Round Table: **5,092** levels
-- Chill Your Beans: **4,839** levels
+- Chill Your Beans: **4,840** levels
 - Long Wall: **4,601** levels
 - Clumsy Shuffle: **4,527** levels
 - Falloween: **4,515** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **14,953** levels
+- 21.3.1: **14,954** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,667** levels
-- Explore: **8,347** levels
+- Explore: **8,348** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
