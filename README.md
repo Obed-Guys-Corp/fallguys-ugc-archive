@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,750**
+- Total indexed levels: **~222,751**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,416** levels
-- GAMEMODE_SURVIVAL: **31,937** levels
+- GAMEMODE_SURVIVAL: **31,938** levels
 - GAMEMODE_POINTS: **23,259** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
 - THEME_VANILLA: **177,626** levels
-- THEME_RETRO: **43,985** levels
+- THEME_RETRO: **43,986** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,792** levels
+- None: **158,793** levels
 - Hard: **17,877** levels
 - Parkour: **17,600** levels
 - Art: **13,135** levels
@@ -38,7 +38,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Co-op: **2,927** levels
 ### Platforms
 - switch: **58,860** levels
-- ps5: **52,428** levels
+- ps5: **52,429** levels
 - ps4: **36,572** levels
 - pc_egs: **34,802** levels
 - xsx: **19,817** levels
@@ -52,7 +52,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - ports3_1: **1** level
 ### Music
 - Fall 'n' Roll: **66,147** levels
-- Digifal Guys: **17,567** levels
+- Digifal Guys: **17,568** levels
 - Final Fall: **9,395** levels
 - Tentacle Tantrum: **8,990** levels
 - Falling Stars (Chugu Bam Bam): **7,492** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,056** levels
+- 21.3.1: **15,057** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,638** levels
-- Explore: **8,479** levels
+- Explore: **8,480** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
