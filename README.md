@@ -10,36 +10,36 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,699**
+- Total indexed levels: **~222,703**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,378** levels
+- GAMEMODE_GAUNTLET: **166,382** levels
 - GAMEMODE_SURVIVAL: **31,929** levels
 - GAMEMODE_POINTS: **23,254** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,586** levels
-- THEME_RETRO: **43,974** levels
+- THEME_VANILLA: **177,588** levels
+- THEME_RETRO: **43,976** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,761** levels
+- None: **158,764** levels
 - Hard: **17,873** levels
 - Parkour: **17,597** levels
 - Art: **13,129** levels
 - Chill: **12,964** levels
 - Quick: **12,089** levels
-- Hangout: **11,272** levels
+- Hangout: **11,273** levels
 - Long: **7,925** levels
 - falljam: **5,971** levels
-- Practice: **5,968** levels
+- Practice: **5,969** levels
 - Prank: **4,504** levels
 - Puzzle: **3,192** levels
 - Co-op: **2,926** levels
 ### Platforms
-- switch: **58,838** levels
-- ps5: **52,417** levels
-- ps4: **36,567** levels
+- switch: **58,840** levels
+- ps5: **52,418** levels
+- ps4: **36,568** levels
 - pc_egs: **34,794** levels
 - xsx: **19,814** levels
 - xb1: **7,857** levels
@@ -61,7 +61,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Random: **5,219** levels
 - Scubabeans: **5,122** levels
 - Beans of the Round Table: **5,092** levels
-- Chill Your Beans: **4,842** levels
+- Chill Your Beans: **4,844** levels
 - Long Wall: **4,602** levels
 - Clumsy Shuffle: **4,529** levels
 - Falloween: **4,515** levels
@@ -79,20 +79,20 @@ Please note that level snapshots have been minified as much as possible, some de
 - Crown Stack Overflow: **2,633** levels
 - Satellite Scramble: **2,551** levels
 - Winter Fallympics: **2,422** levels
-- Grand Festifall: **2,338** levels
+- Grand Festifall: **2,339** levels
 - Of Fables And Falling: **2,295** levels
 - Sunken Seacrets: **2,227** levels
 - Beanary Computing: **2,197** levels
 - Main Room Beanstep: **2,063** levels
 - Skis On Beans: **1,597** levels
 - Sir Falls-A-Lot (William Fell): **1,508** levels
-- Virtual Beanity: **1,468** levels
+- Virtual Beanity: **1,469** levels
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,005** levels
+- 21.3.1: **15,009** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,641** levels
-- Explore: **8,425** levels
+- FGAnalyst: **210,639** levels
+- Explore: **8,431** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
