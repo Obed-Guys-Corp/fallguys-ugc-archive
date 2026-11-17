@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,646**
+- Total indexed levels: **~222,647**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,329** levels
+- GAMEMODE_GAUNTLET: **166,330** levels
 - GAMEMODE_SURVIVAL: **31,928** levels
 - GAMEMODE_POINTS: **23,251** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,545** levels
+- THEME_VANILLA: **177,546** levels
 - THEME_RETRO: **43,962** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,721** levels
+- None: **158,722** levels
 - Hard: **17,871** levels
 - Parkour: **17,593** levels
 - Art: **13,121** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **58,823** levels
 - ps5: **52,409** levels
-- ps4: **36,549** levels
+- ps4: **36,550** levels
 - pc_egs: **34,790** levels
 - xsx: **19,808** levels
 - xb1: **7,855** levels
@@ -58,7 +58,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Falling Stars (Chugu Bam Bam): **7,485** levels
 - Bean Thieves: **7,425** levels
 - Yatta Yatta: **6,295** levels
-- Random: **5,218** levels
+- Random: **5,219** levels
 - Scubabeans: **5,121** levels
 - Beans of the Round Table: **5,092** levels
 - Chill Your Beans: **4,839** levels
@@ -114,7 +114,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 10.8.0: **1,252** levels
 - 10.2.1: **1,125** levels
 - 10.3.0: **717** levels
-- 10.4.0: **658** levels
+- 10.4.0: **659** levels
 - 10.1.0: **595** levels
 - 10.6.2: **586** levels
 - 10.5.0: **549** levels
@@ -134,6 +134,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Explore: **8,347** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
+- Web: **1** level
 <!-- stats end -->
 
 ## Web
