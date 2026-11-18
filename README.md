@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,839**
+- Total indexed levels: **~222,840**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,487** levels
-- GAMEMODE_SURVIVAL: **31,945** levels
+- GAMEMODE_SURVIVAL: **31,946** levels
 - GAMEMODE_POINTS: **23,269** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,698** levels
+- THEME_VANILLA: **177,699** levels
 - THEME_RETRO: **44,002** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,857** levels
+- None: **158,858** levels
 - Hard: **17,884** levels
 - Parkour: **17,609** levels
 - Art: **13,140** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,894** levels
 - ps5: **52,456** levels
 - ps4: **36,582** levels
-- pc_egs: **34,812** levels
+- pc_egs: **34,813** levels
 - xsx: **19,822** levels
 - xb1: **7,860** levels
 - pc_steam: **6,231** levels
@@ -56,7 +56,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Final Fall: **9,398** levels
 - Tentacle Tantrum: **8,996** levels
 - Falling Stars (Chugu Bam Bam): **7,502** levels
-- Bean Thieves: **7,430** levels
+- Bean Thieves: **7,431** levels
 - Yatta Yatta: **6,299** levels
 - Random: **5,219** levels
 - Scubabeans: **5,124** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,145** levels
+- 21.3.1: **15,146** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,609** levels
-- Explore: **8,597** levels
+- Explore: **8,598** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
