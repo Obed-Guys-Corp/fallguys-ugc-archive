@@ -10,25 +10,25 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,811**
+- Total indexed levels: **~222,813**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,463** levels
-- GAMEMODE_SURVIVAL: **31,942** levels
+- GAMEMODE_SURVIVAL: **31,944** levels
 - GAMEMODE_POINTS: **23,268** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,674** levels
+- THEME_VANILLA: **177,676** levels
 - THEME_RETRO: **43,998** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,836** levels
+- None: **158,837** levels
 - Hard: **17,882** levels
-- Parkour: **17,605** levels
+- Parkour: **17,606** levels
 - Art: **13,139** levels
 - Chill: **12,972** levels
-- Quick: **12,092** levels
+- Quick: **12,093** levels
 - Hangout: **11,281** levels
 - Long: **7,930** levels
 - Practice: **5,974** levels
@@ -37,10 +37,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,197** levels
 - Co-op: **2,927** levels
 ### Platforms
-- switch: **58,884** levels
+- switch: **58,885** levels
 - ps5: **52,448** levels
 - ps4: **36,576** levels
-- pc_egs: **34,810** levels
+- pc_egs: **34,811** levels
 - xsx: **19,820** levels
 - xb1: **7,860** levels
 - pc_steam: **6,231** levels
@@ -60,13 +60,13 @@ Please note that level snapshots have been minified as much as possible, some de
 - Yatta Yatta: **6,299** levels
 - Random: **5,219** levels
 - Scubabeans: **5,124** levels
-- Beans of the Round Table: **5,096** levels
+- Beans of the Round Table: **5,097** levels
 - Chill Your Beans: **4,847** levels
 - Long Wall: **4,603** levels
 - Clumsy Shuffle: **4,530** levels
 - Falloween: **4,521** levels
 - Orbital Tumbling: **4,478** levels
-- Falling (in Love) on the Dancefloor: **4,367** levels
+- Falling (in Love) on the Dancefloor: **4,368** levels
 - Fall For The Team: **4,344** levels
 - DnB (Drum & Beans): **4,293** levels
 - Carousel Stumble: **4,143** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,117** levels
+- 21.3.1: **15,119** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,609** levels
-- Explore: **8,569** levels
+- Explore: **8,571** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
