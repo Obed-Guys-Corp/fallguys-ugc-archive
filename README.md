@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,810**
+- Total indexed levels: **~222,811**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,463** levels
-- GAMEMODE_SURVIVAL: **31,941** levels
+- GAMEMODE_SURVIVAL: **31,942** levels
 - GAMEMODE_POINTS: **23,268** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,673** levels
+- THEME_VANILLA: **177,674** levels
 - THEME_RETRO: **43,998** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,835** levels
+- None: **158,836** levels
 - Hard: **17,882** levels
 - Parkour: **17,605** levels
 - Art: **13,139** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,884** levels
 - ps5: **52,448** levels
 - ps4: **36,576** levels
-- pc_egs: **34,809** levels
+- pc_egs: **34,810** levels
 - xsx: **19,820** levels
 - xb1: **7,860** levels
 - pc_steam: **6,231** levels
@@ -83,7 +83,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Of Fables And Falling: **2,296** levels
 - Sunken Seacrets: **2,229** levels
 - Beanary Computing: **2,197** levels
-- Main Room Beanstep: **2,063** levels
+- Main Room Beanstep: **2,064** levels
 - Skis On Beans: **1,598** levels
 - Sir Falls-A-Lot (William Fell): **1,508** levels
 - Virtual Beanity: **1,469** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,116** levels
+- 21.3.1: **15,117** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,613** levels
-- Explore: **8,564** levels
+- FGAnalyst: **210,612** levels
+- Explore: **8,566** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
