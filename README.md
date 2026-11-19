@@ -10,26 +10,26 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~222,960**
+- Total indexed levels: **~222,962**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,580** levels
+- GAMEMODE_GAUNTLET: **166,582** levels
 - GAMEMODE_SURVIVAL: **31,960** levels
 - GAMEMODE_POINTS: **23,282** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,809** levels
+- THEME_VANILLA: **177,811** levels
 - THEME_RETRO: **44,012** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **158,935** levels
+- None: **158,936** levels
 - Hard: **17,896** levels
 - Parkour: **17,619** levels
 - Art: **13,149** levels
-- Chill: **12,986** levels
+- Chill: **12,987** levels
 - Quick: **12,101** levels
-- Hangout: **11,294** levels
+- Hangout: **11,295** levels
 - Long: **7,936** levels
 - Practice: **5,980** levels
 - falljam: **5,978** levels
@@ -37,10 +37,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,199** levels
 - Co-op: **2,929** levels
 ### Platforms
-- switch: **58,931** levels
+- switch: **58,932** levels
 - ps5: **52,479** levels
 - ps4: **36,599** levels
-- pc_egs: **34,838** levels
+- pc_egs: **34,839** levels
 - xsx: **19,837** levels
 - xb1: **7,861** levels
 - pc_steam: **6,233** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,213** levels
+- Fall 'n' Roll: **66,214** levels
 - Digifal Guys: **17,577** levels
 - Final Fall: **9,407** levels
 - Tentacle Tantrum: **8,998** levels
@@ -61,7 +61,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Random: **5,219** levels
 - Scubabeans: **5,127** levels
 - Beans of the Round Table: **5,099** levels
-- Chill Your Beans: **4,849** levels
+- Chill Your Beans: **4,850** levels
 - Long Wall: **4,606** levels
 - Clumsy Shuffle: **4,531** levels
 - Falloween: **4,526** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,266** levels
+- 21.3.1: **15,268** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,576** levels
-- Explore: **8,751** levels
+- Explore: **8,753** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
