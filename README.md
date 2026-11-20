@@ -10,25 +10,25 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,103**
+- Total indexed levels: **~223,104**
 - Size: **~17.5 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,692** levels
-- GAMEMODE_SURVIVAL: **31,976** levels
+- GAMEMODE_SURVIVAL: **31,977** levels
 - GAMEMODE_POINTS: **23,297** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,929** levels
+- THEME_VANILLA: **177,930** levels
 - THEME_RETRO: **44,035** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,028** levels
 - Hard: **17,914** levels
-- Parkour: **17,632** levels
+- Parkour: **17,633** levels
 - Art: **13,157** levels
 - Chill: **12,995** levels
-- Quick: **12,109** levels
+- Quick: **12,110** levels
 - Hangout: **11,303** levels
 - Long: **7,942** levels
 - falljam: **5,986** levels
@@ -40,7 +40,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - switch: **58,978** levels
 - ps5: **52,503** levels
 - ps4: **36,630** levels
-- pc_egs: **34,856** levels
+- pc_egs: **34,857** levels
 - xsx: **19,857** levels
 - xb1: **7,863** levels
 - pc_steam: **6,234** levels
@@ -60,7 +60,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Yatta Yatta: **6,303** levels
 - Random: **5,219** levels
 - Scubabeans: **5,130** levels
-- Beans of the Round Table: **5,105** levels
+- Beans of the Round Table: **5,106** levels
 - Chill Your Beans: **4,853** levels
 - Long Wall: **4,608** levels
 - Clumsy Shuffle: **4,537** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,409** levels
+- 21.3.1: **15,410** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,556** levels
-- Explore: **8,914** levels
+- FGAnalyst: **210,555** levels
+- Explore: **8,916** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
