@@ -130,8 +130,8 @@ Please note that level snapshots have been minified as much as possible, some de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,555** levels
-- Explore: **8,916** levels
+- FGAnalyst: **210,554** levels
+- Explore: **8,917** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
