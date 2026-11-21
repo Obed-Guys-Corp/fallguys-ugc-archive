@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,104**
+- Total indexed levels: **~223,105**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,692** levels
+- GAMEMODE_GAUNTLET: **166,693** levels
 - GAMEMODE_SURVIVAL: **31,977** levels
 - GAMEMODE_POINTS: **23,297** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,930** levels
+- THEME_VANILLA: **177,931** levels
 - THEME_RETRO: **44,035** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,028** levels
+- None: **159,029** levels
 - Hard: **17,914** levels
 - Parkour: **17,633** levels
 - Art: **13,157** levels
@@ -39,7 +39,7 @@ Please note that level snapshots have been minified as much as possible, some de
 ### Platforms
 - switch: **58,978** levels
 - ps5: **52,503** levels
-- ps4: **36,630** levels
+- ps4: **36,631** levels
 - pc_egs: **34,857** levels
 - xsx: **19,857** levels
 - xb1: **7,863** levels
@@ -83,7 +83,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Of Fables And Falling: **2,300** levels
 - Sunken Seacrets: **2,234** levels
 - Beanary Computing: **2,202** levels
-- Main Room Beanstep: **2,067** levels
+- Main Room Beanstep: **2,068** levels
 - Skis On Beans: **1,601** levels
 - Sir Falls-A-Lot (William Fell): **1,515** levels
 - Virtual Beanity: **1,469** levels
@@ -92,7 +92,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
-- 21.3.1: **15,410** levels
+- 21.3.1: **15,411** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
 - 18.0.0: **12,874** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,554** levels
-- Explore: **8,917** levels
+- Explore: **8,918** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
