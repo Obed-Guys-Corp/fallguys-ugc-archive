@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,160**
+- Total indexed levels: **~223,161**
 - Size: **~17.5 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **166,739** levels
+- GAMEMODE_GAUNTLET: **166,740** levels
 - GAMEMODE_SURVIVAL: **31,978** levels
 - GAMEMODE_POINTS: **23,305** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **177,979** levels
+- THEME_VANILLA: **177,980** levels
 - THEME_RETRO: **44,042** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,070** levels
+- None: **159,071** levels
 - Hard: **17,919** levels
 - Parkour: **17,636** levels
 - Art: **13,158** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,206** levels
 - Co-op: **2,933** levels
 ### Platforms
-- switch: **58,996** levels
+- switch: **58,997** levels
 - ps5: **52,515** levels
 - ps4: **36,639** levels
 - pc_egs: **34,869** levels
@@ -81,7 +81,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Winter Fallympics: **2,436** levels
 - Grand Festifall: **2,342** levels
 - Of Fables And Falling: **2,301** levels
-- Sunken Seacrets: **2,234** levels
+- Sunken Seacrets: **2,235** levels
 - Beanary Computing: **2,202** levels
 - Main Room Beanstep: **2,068** levels
 - Skis On Beans: **1,601** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,466** levels
+- 21.3.1: **15,467** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,551** levels
-- Explore: **8,976** levels
+- Explore: **8,977** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
