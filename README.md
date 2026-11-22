@@ -10,15 +10,15 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,421**
+- Total indexed levels: **~223,422**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **166,925** levels
-- GAMEMODE_SURVIVAL: **32,015** levels
+- GAMEMODE_SURVIVAL: **32,016** levels
 - GAMEMODE_POINTS: **23,343** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,196** levels
+- THEME_VANILLA: **178,197** levels
 - THEME_RETRO: **44,086** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
@@ -29,7 +29,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Art: **13,178** levels
 - Chill: **13,010** levels
 - Quick: **12,124** levels
-- Hangout: **11,319** levels
+- Hangout: **11,320** levels
 - Long: **7,956** levels
 - falljam: **5,996** levels
 - Practice: **5,994** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,211** levels
 - Co-op: **2,937** levels
 ### Platforms
-- switch: **59,107** levels
+- switch: **59,108** levels
 - ps5: **52,571** levels
 - ps4: **36,668** levels
 - pc_egs: **34,893** levels
@@ -78,7 +78,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Rumbling Waterfall: **2,896** levels
 - Crown Stack Overflow: **2,643** levels
 - Satellite Scramble: **2,556** levels
-- Winter Fallympics: **2,439** levels
+- Winter Fallympics: **2,440** levels
 - Grand Festifall: **2,345** levels
 - Of Fables And Falling: **2,302** levels
 - Sunken Seacrets: **2,242** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,727** levels
+- 21.3.1: **15,728** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,511** levels
-- Explore: **9,277** levels
+- Explore: **9,278** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
