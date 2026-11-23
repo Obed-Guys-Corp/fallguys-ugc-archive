@@ -10,38 +10,38 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,651**
+- Total indexed levels: **~223,655**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,082** levels
-- GAMEMODE_SURVIVAL: **32,047** levels
+- GAMEMODE_SURVIVAL: **32,051** levels
 - GAMEMODE_POINTS: **23,384** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,376** levels
-- THEME_RETRO: **44,136** levels
+- THEME_VANILLA: **178,379** levels
+- THEME_RETRO: **44,137** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,413** levels
-- Hard: **17,959** levels
-- Parkour: **17,666** levels
+- None: **159,414** levels
+- Hard: **17,961** levels
+- Parkour: **17,667** levels
 - Art: **13,190** levels
 - Chill: **13,025** levels
-- Quick: **12,136** levels
+- Quick: **12,138** levels
 - Hangout: **11,341** levels
 - Long: **7,962** levels
-- Practice: **6,002** levels
+- Practice: **6,003** levels
 - falljam: **6,001** levels
 - Prank: **4,528** levels
 - Puzzle: **3,211** levels
 - Co-op: **2,941** levels
 ### Platforms
-- switch: **59,192** levels
+- switch: **59,193** levels
 - ps5: **52,630** levels
-- ps4: **36,703** levels
-- pc_egs: **34,918** levels
-- xsx: **19,907** levels
+- ps4: **36,704** levels
+- pc_egs: **34,919** levels
+- xsx: **19,908** levels
 - xb1: **7,880** levels
 - pc_steam: **6,239** levels
 - win: **6,170** levels
@@ -55,9 +55,9 @@ Please note that level snapshots have been minified as much as possible, some de
 - Digifal Guys: **17,633** levels
 - Final Fall: **9,435** levels
 - Tentacle Tantrum: **9,028** levels
-- Falling Stars (Chugu Bam Bam): **7,541** levels
+- Falling Stars (Chugu Bam Bam): **7,543** levels
 - Bean Thieves: **7,451** levels
-- Yatta Yatta: **6,318** levels
+- Yatta Yatta: **6,319** levels
 - Random: **5,219** levels
 - Scubabeans: **5,146** levels
 - Beans of the Round Table: **5,123** levels
@@ -77,7 +77,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Future Utobeania: **2,919** levels
 - Rumbling Waterfall: **2,897** levels
 - Crown Stack Overflow: **2,647** levels
-- Satellite Scramble: **2,556** levels
+- Satellite Scramble: **2,557** levels
 - Winter Fallympics: **2,444** levels
 - Grand Festifall: **2,349** levels
 - Of Fables And Falling: **2,305** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,957** levels
+- 21.3.1: **15,961** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,493** levels
-- Explore: **9,525** levels
+- Explore: **9,529** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
