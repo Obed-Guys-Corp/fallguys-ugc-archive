@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,596**
+- Total indexed levels: **~223,597**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,049** levels
+- GAMEMODE_GAUNTLET: **167,050** levels
 - GAMEMODE_SURVIVAL: **32,036** levels
 - GAMEMODE_POINTS: **23,373** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,332** levels
+- THEME_VANILLA: **178,333** levels
 - THEME_RETRO: **44,125** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,378** levels
+- None: **159,379** levels
 - Hard: **17,952** levels
 - Parkour: **17,664** levels
 - Art: **13,186** levels
@@ -41,7 +41,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - ps5: **52,619** levels
 - ps4: **36,696** levels
 - pc_egs: **34,912** levels
-- xsx: **19,902** levels
+- xsx: **19,903** levels
 - xb1: **7,879** levels
 - pc_steam: **6,238** levels
 - win: **6,170** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,391** levels
+- Fall 'n' Roll: **66,392** levels
 - Digifal Guys: **17,628** levels
 - Final Fall: **9,432** levels
 - Tentacle Tantrum: **9,024** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,902** levels
+- 21.3.1: **15,903** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,494** levels
-- Explore: **9,469** levels
+- Explore: **9,470** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
