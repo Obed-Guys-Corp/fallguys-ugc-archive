@@ -10,20 +10,20 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,656**
+- Total indexed levels: **~223,657**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,083** levels
-- GAMEMODE_SURVIVAL: **32,051** levels
+- GAMEMODE_SURVIVAL: **32,052** levels
 - GAMEMODE_POINTS: **23,384** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,380** levels
+- THEME_VANILLA: **178,381** levels
 - THEME_RETRO: **44,137** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,414** levels
+- None: **159,415** levels
 - Hard: **17,962** levels
 - Parkour: **17,667** levels
 - Art: **13,191** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,211** levels
 - Co-op: **2,941** levels
 ### Platforms
-- switch: **59,194** levels
+- switch: **59,195** levels
 - ps5: **52,630** levels
 - ps4: **36,704** levels
 - pc_egs: **34,919** levels
@@ -68,7 +68,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Orbital Tumbling: **4,489** levels
 - Falling (in Love) on the Dancefloor: **4,384** levels
 - Fall For The Team: **4,354** levels
-- DnB (Drum & Beans): **4,312** levels
+- DnB (Drum & Beans): **4,313** levels
 - Carousel Stumble: **4,156** levels
 - Chimney Bean Bebop: **3,896** levels
 - Temple Tumble: **3,818** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,962** levels
+- 21.3.1: **15,963** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,493** levels
-- Explore: **9,530** levels
+- Explore: **9,531** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
