@@ -10,23 +10,23 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,655**
+- Total indexed levels: **~223,656**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,082** levels
+- GAMEMODE_GAUNTLET: **167,083** levels
 - GAMEMODE_SURVIVAL: **32,051** levels
 - GAMEMODE_POINTS: **23,384** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,379** levels
+- THEME_VANILLA: **178,380** levels
 - THEME_RETRO: **44,137** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,414** levels
-- Hard: **17,961** levels
+- Hard: **17,962** levels
 - Parkour: **17,667** levels
-- Art: **13,190** levels
+- Art: **13,191** levels
 - Chill: **13,025** levels
 - Quick: **12,138** levels
 - Hangout: **11,341** levels
@@ -37,7 +37,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,211** levels
 - Co-op: **2,941** levels
 ### Platforms
-- switch: **59,193** levels
+- switch: **59,194** levels
 - ps5: **52,630** levels
 - ps4: **36,704** levels
 - pc_egs: **34,919** levels
@@ -73,7 +73,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Chimney Bean Bebop: **3,896** levels
 - Temple Tumble: **3,818** levels
 - Survive The Fall: **3,660** levels
-- Fall for the Queen Bean: **3,464** levels
+- Fall for the Queen Bean: **3,465** levels
 - Future Utobeania: **2,919** levels
 - Rumbling Waterfall: **2,897** levels
 - Crown Stack Overflow: **2,647** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **15,961** levels
+- 21.3.1: **15,962** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,493** levels
-- Explore: **9,529** levels
+- Explore: **9,530** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
