@@ -10,22 +10,22 @@ Please note that level snapshots have been minified as much as possible, some de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,742**
+- Total indexed levels: **~223,743**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,155** levels
+- GAMEMODE_GAUNTLET: **167,156** levels
 - GAMEMODE_SURVIVAL: **32,056** levels
 - GAMEMODE_POINTS: **23,393** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,451** levels
+- THEME_VANILLA: **178,452** levels
 - THEME_RETRO: **44,152** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,478** levels
 - Hard: **17,968** levels
-- Parkour: **17,671** levels
+- Parkour: **17,672** levels
 - Art: **13,194** levels
 - Chill: **13,026** levels
 - Quick: **12,142** levels
@@ -33,12 +33,12 @@ Please note that level snapshots have been minified as much as possible, some de
 - Long: **7,967** levels
 - Practice: **6,008** levels
 - falljam: **6,002** levels
-- Prank: **4,530** levels
+- Prank: **4,531** levels
 - Puzzle: **3,214** levels
 - Co-op: **2,943** levels
 ### Platforms
 - switch: **59,229** levels
-- ps5: **52,648** levels
+- ps5: **52,649** levels
 - ps4: **36,715** levels
 - pc_egs: **34,928** levels
 - xsx: **19,916** levels
@@ -51,7 +51,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,444** levels
+- Fall 'n' Roll: **66,445** levels
 - Digifal Guys: **17,639** levels
 - Final Fall: **9,441** levels
 - Tentacle Tantrum: **9,031** levels
@@ -91,7 +91,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **16,048** levels
+- 21.3.1: **16,049** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,7 +131,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,487** levels
-- Explore: **9,622** levels
+- Explore: **9,623** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
