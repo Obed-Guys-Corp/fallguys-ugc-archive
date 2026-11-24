@@ -8,22 +8,25 @@ To maintain a small repository size only level snapshots are hosted here as of n
 
 Please note that level snapshots have been minified as much as possible, some details I don't think are worth the archiving were excluded from them
 
+## Web
+Web version with level search and easier previews can be found at [fga.floyzi.dev/creative](https://fga.floyzi.dev/creative/)
+
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,798**
+- Total indexed levels: **~223,800**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,192** levels
-- GAMEMODE_SURVIVAL: **32,070** levels
+- GAMEMODE_SURVIVAL: **32,072** levels
 - GAMEMODE_POINTS: **23,398** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,498** levels
+- THEME_VANILLA: **178,500** levels
 - THEME_RETRO: **44,161** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,517** levels
+- None: **159,519** levels
 - Hard: **17,974** levels
 - Parkour: **17,676** levels
 - Art: **13,198** levels
@@ -37,10 +40,10 @@ Please note that level snapshots have been minified as much as possible, some de
 - Puzzle: **3,214** levels
 - Co-op: **2,944** levels
 ### Platforms
-- switch: **59,253** levels
+- switch: **59,254** levels
 - ps5: **52,662** levels
 - ps4: **36,719** levels
-- pc_egs: **34,938** levels
+- pc_egs: **34,939** levels
 - xsx: **19,920** levels
 - xb1: **7,885** levels
 - pc_steam: **6,239** levels
@@ -51,7 +54,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,467** levels
+- Fall 'n' Roll: **66,468** levels
 - Digifal Guys: **17,645** levels
 - Final Fall: **9,443** levels
 - Tentacle Tantrum: **9,037** levels
@@ -74,7 +77,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - Temple Tumble: **3,822** levels
 - Survive The Fall: **3,662** levels
 - Fall for the Queen Bean: **3,465** levels
-- Future Utobeania: **2,919** levels
+- Future Utobeania: **2,920** levels
 - Rumbling Waterfall: **2,899** levels
 - Crown Stack Overflow: **2,650** levels
 - Satellite Scramble: **2,558** levels
@@ -91,7 +94,7 @@ Please note that level snapshots have been minified as much as possible, some de
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
-- 21.3.1: **16,104** levels
+- 21.3.1: **16,106** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
 - 11.5.0: **12,920** levels
@@ -131,14 +134,11 @@ Please note that level snapshots have been minified as much as possible, some de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,680** levels
+- Explore: **9,682** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
 <!-- stats end -->
-
-## Web
-Coming soon!
 
 ## Special thanks 
 Huge thanks to [FG Analyst](https://cloudseeker.xyz/fga/) team for allowing me to crawl through their indexed levels resulting in a lot of levels being archived
