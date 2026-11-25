@@ -13,26 +13,26 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,902**
+- Total indexed levels: **~223,905**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,271** levels
-- GAMEMODE_SURVIVAL: **32,078** levels
+- GAMEMODE_SURVIVAL: **32,081** levels
 - GAMEMODE_POINTS: **23,415** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,589** levels
+- THEME_VANILLA: **178,592** levels
 - THEME_RETRO: **44,174** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,586** levels
+- None: **159,588** levels
 - Hard: **17,984** levels
 - Parkour: **17,681** levels
-- Art: **13,206** levels
+- Art: **13,207** levels
 - Chill: **13,036** levels
 - Quick: **12,148** levels
-- Hangout: **11,354** levels
+- Hangout: **11,355** levels
 - Long: **7,973** levels
 - Practice: **6,014** levels
 - falljam: **6,008** levels
@@ -40,10 +40,10 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Puzzle: **3,218** levels
 - Co-op: **2,949** levels
 ### Platforms
-- switch: **59,285** levels
-- ps5: **52,684** levels
+- switch: **59,286** levels
+- ps5: **52,685** levels
 - ps4: **36,739** levels
-- pc_egs: **34,954** levels
+- pc_egs: **34,955** levels
 - xsx: **19,931** levels
 - xb1: **7,887** levels
 - pc_steam: **6,240** levels
@@ -54,9 +54,9 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,502** levels
+- Fall 'n' Roll: **66,503** levels
 - Digifal Guys: **17,648** levels
-- Final Fall: **9,443** levels
+- Final Fall: **9,444** levels
 - Tentacle Tantrum: **9,041** levels
 - Falling Stars (Chugu Bam Bam): **7,552** levels
 - Bean Thieves: **7,456** levels
@@ -69,7 +69,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Clumsy Shuffle: **4,553** levels
 - Falloween: **4,546** levels
 - Orbital Tumbling: **4,492** levels
-- Falling (in Love) on the Dancefloor: **4,388** levels
+- Falling (in Love) on the Dancefloor: **4,389** levels
 - Fall For The Team: **4,358** levels
 - DnB (Drum & Beans): **4,318** levels
 - Carousel Stumble: **4,158** levels
@@ -93,7 +93,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,208** levels
+- 21.3.1: **16,211** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,784** levels
+- Explore: **9,787** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
