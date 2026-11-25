@@ -13,38 +13,38 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,933**
+- Total indexed levels: **~223,936**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,294** levels
-- GAMEMODE_SURVIVAL: **32,083** levels
+- GAMEMODE_GAUNTLET: **167,295** levels
+- GAMEMODE_SURVIVAL: **32,085** levels
 - GAMEMODE_POINTS: **23,418** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,614** levels
-- THEME_RETRO: **44,180** levels
+- THEME_VANILLA: **178,616** levels
+- THEME_RETRO: **44,181** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,605** levels
-- Hard: **17,989** levels
+- None: **159,606** levels
+- Hard: **17,990** levels
 - Parkour: **17,682** levels
-- Art: **13,211** levels
+- Art: **13,212** levels
 - Chill: **13,037** levels
 - Quick: **12,149** levels
-- Hangout: **11,356** levels
+- Hangout: **11,357** levels
 - Long: **7,974** levels
 - Practice: **6,014** levels
 - falljam: **6,008** levels
-- Prank: **4,536** levels
+- Prank: **4,537** levels
 - Puzzle: **3,218** levels
 - Co-op: **2,952** levels
 ### Platforms
-- switch: **59,300** levels
-- ps5: **52,689** levels
+- switch: **59,301** levels
+- ps5: **52,690** levels
 - ps4: **36,742** levels
 - pc_egs: **34,960** levels
-- xsx: **19,933** levels
+- xsx: **19,934** levels
 - xb1: **7,887** levels
 - pc_steam: **6,240** levels
 - win: **6,170** levels
@@ -54,9 +54,9 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,507** levels
+- Fall 'n' Roll: **66,508** levels
 - Digifal Guys: **17,650** levels
-- Final Fall: **9,445** levels
+- Final Fall: **9,446** levels
 - Tentacle Tantrum: **9,043** levels
 - Falling Stars (Chugu Bam Bam): **7,554** levels
 - Bean Thieves: **7,456** levels
@@ -78,7 +78,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Survive The Fall: **3,663** levels
 - Fall for the Queen Bean: **3,468** levels
 - Future Utobeania: **2,922** levels
-- Rumbling Waterfall: **2,901** levels
+- Rumbling Waterfall: **2,902** levels
 - Crown Stack Overflow: **2,653** levels
 - Satellite Scramble: **2,559** levels
 - Winter Fallympics: **2,451** levels
@@ -91,9 +91,9 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Sir Falls-A-Lot (William Fell): **1,519** levels
 - Virtual Beanity: **1,471** levels
 ### Versions
-- 21.3.0: **24,891** levels
+- 21.3.0: **24,892** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,239** levels
+- 21.3.1: **16,241** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,815** levels
+- Explore: **9,818** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
