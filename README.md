@@ -13,15 +13,15 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,930**
+- Total indexed levels: **~223,932**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,293** levels
-- GAMEMODE_SURVIVAL: **32,081** levels
+- GAMEMODE_SURVIVAL: **32,083** levels
 - GAMEMODE_POINTS: **23,418** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,612** levels
+- THEME_VANILLA: **178,614** levels
 - THEME_RETRO: **44,179** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
@@ -29,18 +29,18 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - None: **159,604** levels
 - Hard: **17,989** levels
 - Parkour: **17,682** levels
-- Art: **13,210** levels
+- Art: **13,211** levels
 - Chill: **13,037** levels
-- Quick: **12,148** levels
+- Quick: **12,149** levels
 - Hangout: **11,356** levels
 - Long: **7,974** levels
 - Practice: **6,014** levels
 - falljam: **6,008** levels
-- Prank: **4,535** levels
+- Prank: **4,536** levels
 - Puzzle: **3,218** levels
 - Co-op: **2,952** levels
 ### Platforms
-- switch: **59,298** levels
+- switch: **59,300** levels
 - ps5: **52,689** levels
 - ps4: **36,742** levels
 - pc_egs: **34,959** levels
@@ -74,7 +74,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - DnB (Drum & Beans): **4,319** levels
 - Carousel Stumble: **4,160** levels
 - Chimney Bean Bebop: **3,905** levels
-- Temple Tumble: **3,825** levels
+- Temple Tumble: **3,826** levels
 - Survive The Fall: **3,663** levels
 - Fall for the Queen Bean: **3,468** levels
 - Future Utobeania: **2,922** levels
@@ -82,7 +82,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Crown Stack Overflow: **2,653** levels
 - Satellite Scramble: **2,559** levels
 - Winter Fallympics: **2,451** levels
-- Grand Festifall: **2,352** levels
+- Grand Festifall: **2,353** levels
 - Of Fables And Falling: **2,306** levels
 - Sunken Seacrets: **2,244** levels
 - Beanary Computing: **2,214** levels
@@ -93,7 +93,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,236** levels
+- 21.3.1: **16,238** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,812** levels
+- Explore: **9,814** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
