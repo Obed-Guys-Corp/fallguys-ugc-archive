@@ -13,38 +13,38 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,906**
+- Total indexed levels: **~223,930**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,272** levels
+- GAMEMODE_GAUNTLET: **167,293** levels
 - GAMEMODE_SURVIVAL: **32,081** levels
-- GAMEMODE_POINTS: **23,415** levels
+- GAMEMODE_POINTS: **23,418** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,593** levels
-- THEME_RETRO: **44,174** levels
+- THEME_VANILLA: **178,612** levels
+- THEME_RETRO: **44,179** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,588** levels
-- Hard: **17,985** levels
-- Parkour: **17,681** levels
-- Art: **13,208** levels
-- Chill: **13,036** levels
+- None: **159,604** levels
+- Hard: **17,989** levels
+- Parkour: **17,682** levels
+- Art: **13,210** levels
+- Chill: **13,037** levels
 - Quick: **12,148** levels
-- Hangout: **11,355** levels
-- Long: **7,973** levels
+- Hangout: **11,356** levels
+- Long: **7,974** levels
 - Practice: **6,014** levels
 - falljam: **6,008** levels
 - Prank: **4,535** levels
 - Puzzle: **3,218** levels
-- Co-op: **2,949** levels
+- Co-op: **2,952** levels
 ### Platforms
-- switch: **59,287** levels
-- ps5: **52,685** levels
-- ps4: **36,739** levels
-- pc_egs: **34,955** levels
-- xsx: **19,931** levels
+- switch: **59,298** levels
+- ps5: **52,689** levels
+- ps4: **36,742** levels
+- pc_egs: **34,959** levels
+- xsx: **19,933** levels
 - xb1: **7,887** levels
 - pc_steam: **6,240** levels
 - win: **6,170** levels
@@ -54,46 +54,46 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,503** levels
-- Digifal Guys: **17,648** levels
-- Final Fall: **9,444** levels
-- Tentacle Tantrum: **9,042** levels
-- Falling Stars (Chugu Bam Bam): **7,552** levels
+- Fall 'n' Roll: **66,507** levels
+- Digifal Guys: **17,650** levels
+- Final Fall: **9,445** levels
+- Tentacle Tantrum: **9,043** levels
+- Falling Stars (Chugu Bam Bam): **7,554** levels
 - Bean Thieves: **7,456** levels
 - Yatta Yatta: **6,322** levels
 - Random: **5,219** levels
 - Scubabeans: **5,152** levels
 - Beans of the Round Table: **5,125** levels
-- Chill Your Beans: **4,873** levels
-- Long Wall: **4,621** levels
-- Clumsy Shuffle: **4,553** levels
+- Chill Your Beans: **4,874** levels
+- Long Wall: **4,623** levels
+- Clumsy Shuffle: **4,554** levels
 - Falloween: **4,546** levels
 - Orbital Tumbling: **4,492** levels
-- Falling (in Love) on the Dancefloor: **4,389** levels
+- Falling (in Love) on the Dancefloor: **4,391** levels
 - Fall For The Team: **4,358** levels
-- DnB (Drum & Beans): **4,318** levels
-- Carousel Stumble: **4,158** levels
+- DnB (Drum & Beans): **4,319** levels
+- Carousel Stumble: **4,160** levels
 - Chimney Bean Bebop: **3,905** levels
 - Temple Tumble: **3,825** levels
 - Survive The Fall: **3,663** levels
 - Fall for the Queen Bean: **3,468** levels
-- Future Utobeania: **2,921** levels
-- Rumbling Waterfall: **2,900** levels
+- Future Utobeania: **2,922** levels
+- Rumbling Waterfall: **2,901** levels
 - Crown Stack Overflow: **2,653** levels
 - Satellite Scramble: **2,559** levels
-- Winter Fallympics: **2,450** levels
+- Winter Fallympics: **2,451** levels
 - Grand Festifall: **2,352** levels
 - Of Fables And Falling: **2,306** levels
 - Sunken Seacrets: **2,244** levels
 - Beanary Computing: **2,214** levels
 - Main Room Beanstep: **2,077** levels
-- Skis On Beans: **1,608** levels
+- Skis On Beans: **1,610** levels
 - Sir Falls-A-Lot (William Fell): **1,519** levels
 - Virtual Beanity: **1,471** levels
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,212** levels
+- 21.3.1: **16,236** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,788** levels
+- Explore: **9,812** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
