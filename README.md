@@ -13,23 +13,23 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,905**
+- Total indexed levels: **~223,906**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,271** levels
+- GAMEMODE_GAUNTLET: **167,272** levels
 - GAMEMODE_SURVIVAL: **32,081** levels
 - GAMEMODE_POINTS: **23,415** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,592** levels
+- THEME_VANILLA: **178,593** levels
 - THEME_RETRO: **44,174** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,588** levels
-- Hard: **17,984** levels
+- Hard: **17,985** levels
 - Parkour: **17,681** levels
-- Art: **13,207** levels
+- Art: **13,208** levels
 - Chill: **13,036** levels
 - Quick: **12,148** levels
 - Hangout: **11,355** levels
@@ -40,7 +40,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Puzzle: **3,218** levels
 - Co-op: **2,949** levels
 ### Platforms
-- switch: **59,286** levels
+- switch: **59,287** levels
 - ps5: **52,685** levels
 - ps4: **36,739** levels
 - pc_egs: **34,955** levels
@@ -57,7 +57,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Fall 'n' Roll: **66,503** levels
 - Digifal Guys: **17,648** levels
 - Final Fall: **9,444** levels
-- Tentacle Tantrum: **9,041** levels
+- Tentacle Tantrum: **9,042** levels
 - Falling Stars (Chugu Bam Bam): **7,552** levels
 - Bean Thieves: **7,456** levels
 - Yatta Yatta: **6,322** levels
@@ -93,7 +93,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,211** levels
+- 21.3.1: **16,212** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,787** levels
+- Explore: **9,788** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
