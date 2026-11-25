@@ -13,20 +13,20 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~223,932**
+- Total indexed levels: **~223,933**
 - Size: **~17.6 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,293** levels
+- GAMEMODE_GAUNTLET: **167,294** levels
 - GAMEMODE_SURVIVAL: **32,083** levels
 - GAMEMODE_POINTS: **23,418** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
 - THEME_VANILLA: **178,614** levels
-- THEME_RETRO: **44,179** levels
+- THEME_RETRO: **44,180** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,604** levels
+- None: **159,605** levels
 - Hard: **17,989** levels
 - Parkour: **17,682** levels
 - Art: **13,211** levels
@@ -43,7 +43,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - switch: **59,300** levels
 - ps5: **52,689** levels
 - ps4: **36,742** levels
-- pc_egs: **34,959** levels
+- pc_egs: **34,960** levels
 - xsx: **19,933** levels
 - xb1: **7,887** levels
 - pc_steam: **6,240** levels
@@ -72,7 +72,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Falling (in Love) on the Dancefloor: **4,391** levels
 - Fall For The Team: **4,358** levels
 - DnB (Drum & Beans): **4,319** levels
-- Carousel Stumble: **4,160** levels
+- Carousel Stumble: **4,161** levels
 - Chimney Bean Bebop: **3,905** levels
 - Temple Tumble: **3,826** levels
 - Survive The Fall: **3,663** levels
@@ -93,7 +93,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ### Versions
 - 21.3.0: **24,891** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,238** levels
+- 21.3.1: **16,239** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,814** levels
+- Explore: **9,815** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
