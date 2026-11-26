@@ -13,35 +13,35 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,083**
+- Total indexed levels: **~224,087**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,401** levels
-- GAMEMODE_SURVIVAL: **32,105** levels
+- GAMEMODE_SURVIVAL: **32,109** levels
 - GAMEMODE_POINTS: **23,439** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
 - THEME_VANILLA: **178,733** levels
-- THEME_RETRO: **44,211** levels
+- THEME_RETRO: **44,215** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,706** levels
+- None: **159,708** levels
 - Hard: **18,009** levels
 - Parkour: **17,693** levels
 - Art: **13,218** levels
 - Chill: **13,042** levels
 - Quick: **12,152** levels
 - Hangout: **11,369** levels
-- Long: **7,985** levels
+- Long: **7,986** levels
 - Practice: **6,020** levels
 - falljam: **6,010** levels
-- Prank: **4,547** levels
+- Prank: **4,548** levels
 - Puzzle: **3,219** levels
 - Co-op: **2,953** levels
 ### Platforms
-- switch: **59,349** levels
-- ps5: **52,731** levels
+- switch: **59,352** levels
+- ps5: **52,732** levels
 - ps4: **36,761** levels
 - pc_egs: **34,980** levels
 - xsx: **19,950** levels
@@ -60,10 +60,10 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Tentacle Tantrum: **9,048** levels
 - Falling Stars (Chugu Bam Bam): **7,563** levels
 - Bean Thieves: **7,459** levels
-- Yatta Yatta: **6,325** levels
+- Yatta Yatta: **6,326** levels
 - Random: **5,219** levels
 - Scubabeans: **5,154** levels
-- Beans of the Round Table: **5,129** levels
+- Beans of the Round Table: **5,130** levels
 - Chill Your Beans: **4,880** levels
 - Long Wall: **4,625** levels
 - Clumsy Shuffle: **4,555** levels
@@ -75,7 +75,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Carousel Stumble: **4,164** levels
 - Chimney Bean Bebop: **3,907** levels
 - Temple Tumble: **3,830** levels
-- Survive The Fall: **3,666** levels
+- Survive The Fall: **3,667** levels
 - Fall for the Queen Bean: **3,470** levels
 - Future Utobeania: **2,927** levels
 - Rumbling Waterfall: **2,906** levels
@@ -86,14 +86,14 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Of Fables And Falling: **2,307** levels
 - Sunken Seacrets: **2,245** levels
 - Beanary Computing: **2,215** levels
-- Main Room Beanstep: **2,079** levels
+- Main Room Beanstep: **2,080** levels
 - Skis On Beans: **1,610** levels
 - Sir Falls-A-Lot (William Fell): **1,520** levels
 - Virtual Beanity: **1,471** levels
 ### Versions
 - 21.3.0: **24,892** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,388** levels
+- 21.3.1: **16,392** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,484** levels
-- Explore: **9,966** levels
+- Explore: **9,970** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
