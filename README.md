@@ -13,15 +13,15 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,053**
+- Total indexed levels: **~224,054**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,377** levels
-- GAMEMODE_SURVIVAL: **32,102** levels
+- GAMEMODE_SURVIVAL: **32,103** levels
 - GAMEMODE_POINTS: **23,436** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,711** levels
+- THEME_VANILLA: **178,712** levels
 - THEME_RETRO: **44,203** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
@@ -32,18 +32,18 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Art: **13,217** levels
 - Chill: **13,042** levels
 - Quick: **12,152** levels
-- Hangout: **11,363** levels
+- Hangout: **11,364** levels
 - Long: **7,982** levels
 - Practice: **6,018** levels
 - falljam: **6,010** levels
-- Prank: **4,544** levels
+- Prank: **4,545** levels
 - Puzzle: **3,219** levels
 - Co-op: **2,953** levels
 ### Platforms
 - switch: **59,334** levels
 - ps5: **52,726** levels
 - ps4: **36,759** levels
-- pc_egs: **34,972** levels
+- pc_egs: **34,973** levels
 - xsx: **19,950** levels
 - xb1: **7,890** levels
 - pc_steam: **6,240** levels
@@ -79,7 +79,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Fall for the Queen Bean: **3,470** levels
 - Future Utobeania: **2,927** levels
 - Rumbling Waterfall: **2,905** levels
-- Crown Stack Overflow: **2,654** levels
+- Crown Stack Overflow: **2,655** levels
 - Satellite Scramble: **2,559** levels
 - Winter Fallympics: **2,453** levels
 - Grand Festifall: **2,354** levels
@@ -93,7 +93,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ### Versions
 - 21.3.0: **24,892** levels
 - 21.2.0: **16,431** levels
-- 21.3.1: **16,358** levels
+- 21.3.1: **16,359** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
 - 19.0.0: **14,863** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,485** levels
-- Explore: **9,935** levels
+- Explore: **9,936** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
