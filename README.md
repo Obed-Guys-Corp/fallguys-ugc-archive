@@ -14,7 +14,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 ## Statistics
 <!-- stats begin -->
 - Total indexed levels: **~224,231**
-- Size: **~17.6 GB**
+- Size: **~17.7 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,511** levels
 - GAMEMODE_SURVIVAL: **32,121** levels
