@@ -13,26 +13,26 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,185**
+- Total indexed levels: **~224,186**
 - Size: **~17.6 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,481** levels
-- GAMEMODE_SURVIVAL: **32,113** levels
+- GAMEMODE_SURVIVAL: **32,114** levels
 - GAMEMODE_POINTS: **23,453** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,816** levels
+- THEME_VANILLA: **178,817** levels
 - THEME_RETRO: **44,230** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,780** levels
-- Hard: **18,012** levels
+- Hard: **18,013** levels
 - Parkour: **17,699** levels
 - Art: **13,222** levels
 - Chill: **13,048** levels
 - Quick: **12,160** levels
-- Hangout: **11,373** levels
+- Hangout: **11,374** levels
 - Long: **7,991** levels
 - Practice: **6,022** levels
 - falljam: **6,016** levels
@@ -40,7 +40,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Puzzle: **3,221** levels
 - Co-op: **2,953** levels
 ### Platforms
-- switch: **59,394** levels
+- switch: **59,395** levels
 - ps5: **52,750** levels
 - ps4: **36,779** levels
 - pc_egs: **34,989** levels
@@ -74,7 +74,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - DnB (Drum & Beans): **4,322** levels
 - Carousel Stumble: **4,164** levels
 - Chimney Bean Bebop: **3,911** levels
-- Temple Tumble: **3,831** levels
+- Temple Tumble: **3,832** levels
 - Survive The Fall: **3,668** levels
 - Fall for the Queen Bean: **3,471** levels
 - Future Utobeania: **2,931** levels
@@ -92,7 +92,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Virtual Beanity: **1,471** levels
 ### Versions
 - 21.3.0: **24,892** levels
-- 21.3.1: **16,490** levels
+- 21.3.1: **16,491** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,480** levels
-- Explore: **10,072** levels
+- Explore: **10,073** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
