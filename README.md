@@ -13,20 +13,20 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,231**
+- Total indexed levels: **~224,232**
 - Size: **~17.7 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,511** levels
+- GAMEMODE_GAUNTLET: **167,512** levels
 - GAMEMODE_SURVIVAL: **32,121** levels
 - GAMEMODE_POINTS: **23,461** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,852** levels
+- THEME_VANILLA: **178,853** levels
 - THEME_RETRO: **44,240** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,813** levels
+- None: **159,814** levels
 - Hard: **18,017** levels
 - Parkour: **17,705** levels
 - Art: **13,227** levels
@@ -40,7 +40,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Puzzle: **3,221** levels
 - Co-op: **2,953** levels
 ### Platforms
-- switch: **59,417** levels
+- switch: **59,418** levels
 - ps5: **52,753** levels
 - ps4: **36,785** levels
 - pc_egs: **34,997** levels
@@ -58,7 +58,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Digifal Guys: **17,669** levels
 - Final Fall: **9,462** levels
 - Tentacle Tantrum: **9,053** levels
-- Falling Stars (Chugu Bam Bam): **7,572** levels
+- Falling Stars (Chugu Bam Bam): **7,573** levels
 - Bean Thieves: **7,461** levels
 - Yatta Yatta: **6,329** levels
 - Random: **5,219** levels
@@ -92,7 +92,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Virtual Beanity: **1,473** levels
 ### Versions
 - 21.3.0: **24,892** levels
-- 21.3.1: **16,536** levels
+- 21.3.1: **16,537** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,480** levels
-- Explore: **10,118** levels
+- Explore: **10,119** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
