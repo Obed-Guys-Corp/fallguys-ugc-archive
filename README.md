@@ -133,8 +133,8 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 20.0.98: **1** level
 - 11.0.0: **1** level
 ### Sources
-- FGAnalyst: **210,481** levels
-- Explore: **10,071** levels
+- FGAnalyst: **210,480** levels
+- Explore: **10,072** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
