@@ -13,20 +13,20 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,232**
+- Total indexed levels: **~224,233**
 - Size: **~17.7 GB**
 ### Gamemodes
-- GAMEMODE_GAUNTLET: **167,512** levels
+- GAMEMODE_GAUNTLET: **167,513** levels
 - GAMEMODE_SURVIVAL: **32,121** levels
 - GAMEMODE_POINTS: **23,461** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,853** levels
+- THEME_VANILLA: **178,854** levels
 - THEME_RETRO: **44,240** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,814** levels
+- None: **159,815** levels
 - Hard: **18,017** levels
 - Parkour: **17,705** levels
 - Art: **13,227** levels
@@ -46,7 +46,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - pc_egs: **34,997** levels
 - xsx: **19,961** levels
 - xb1: **7,894** levels
-- pc_steam: **6,242** levels
+- pc_steam: **6,243** levels
 - win: **6,170** levels
 - android_ega: **4** levels
 - ios_ega: **3** levels
@@ -87,12 +87,12 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Sunken Seacrets: **2,247** levels
 - Beanary Computing: **2,215** levels
 - Main Room Beanstep: **2,082** levels
-- Skis On Beans: **1,613** levels
+- Skis On Beans: **1,614** levels
 - Sir Falls-A-Lot (William Fell): **1,520** levels
 - Virtual Beanity: **1,473** levels
 ### Versions
 - 21.3.0: **24,892** levels
-- 21.3.1: **16,537** levels
+- 21.3.1: **16,538** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,480** levels
-- Explore: **10,119** levels
+- Explore: **10,120** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
