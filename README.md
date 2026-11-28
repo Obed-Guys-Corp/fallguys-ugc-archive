@@ -13,20 +13,20 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,343**
+- Total indexed levels: **~224,346**
 - Size: **~17.7 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,611** levels
-- GAMEMODE_SURVIVAL: **32,123** levels
+- GAMEMODE_SURVIVAL: **32,126** levels
 - GAMEMODE_POINTS: **23,471** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,947** levels
+- THEME_VANILLA: **178,950** levels
 - THEME_RETRO: **44,257** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
-- None: **159,897** levels
+- None: **159,900** levels
 - Hard: **18,024** levels
 - Parkour: **17,714** levels
 - Art: **13,236** levels
@@ -40,7 +40,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Puzzle: **3,223** levels
 - Co-op: **2,956** levels
 ### Platforms
-- switch: **59,465** levels
+- switch: **59,468** levels
 - ps5: **52,779** levels
 - ps4: **36,797** levels
 - pc_egs: **35,013** levels
@@ -54,9 +54,9 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - android: **1** level
 - ports3_1: **1** level
 ### Music
-- Fall 'n' Roll: **66,621** levels
+- Fall 'n' Roll: **66,622** levels
 - Digifal Guys: **17,675** levels
-- Final Fall: **9,476** levels
+- Final Fall: **9,477** levels
 - Tentacle Tantrum: **9,058** levels
 - Falling Stars (Chugu Bam Bam): **7,574** levels
 - Bean Thieves: **7,465** levels
@@ -82,7 +82,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Crown Stack Overflow: **2,657** levels
 - Satellite Scramble: **2,563** levels
 - Winter Fallympics: **2,459** levels
-- Grand Festifall: **2,357** levels
+- Grand Festifall: **2,358** levels
 - Of Fables And Falling: **2,313** levels
 - Sunken Seacrets: **2,248** levels
 - Beanary Computing: **2,215** levels
@@ -92,7 +92,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Virtual Beanity: **1,473** levels
 ### Versions
 - 21.3.0: **24,892** levels
-- 21.3.1: **16,648** levels
+- 21.3.1: **16,651** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,470** levels
-- Explore: **10,240** levels
+- Explore: **10,243** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
