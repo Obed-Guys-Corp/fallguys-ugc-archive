@@ -13,22 +13,22 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 
 ## Statistics
 <!-- stats begin -->
-- Total indexed levels: **~224,346**
+- Total indexed levels: **~224,347**
 - Size: **~17.7 GB**
 ### Gamemodes
 - GAMEMODE_GAUNTLET: **167,611** levels
-- GAMEMODE_SURVIVAL: **32,126** levels
+- GAMEMODE_SURVIVAL: **32,127** levels
 - GAMEMODE_POINTS: **23,471** levels
 - GAMEMODE_SLIMECLIMB: **1** level
 ### Themes
-- THEME_VANILLA: **178,950** levels
+- THEME_VANILLA: **178,951** levels
 - THEME_RETRO: **44,257** levels
 - THEME_STAGING: **1** level
 - THEME_MEDIEVAL: **1** level
 ### Tags
 - None: **159,900** levels
-- Hard: **18,024** levels
-- Parkour: **17,714** levels
+- Hard: **18,025** levels
+- Parkour: **17,715** levels
 - Art: **13,236** levels
 - Chill: **13,054** levels
 - Quick: **12,165** levels
@@ -41,7 +41,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Co-op: **2,956** levels
 ### Platforms
 - switch: **59,468** levels
-- ps5: **52,779** levels
+- ps5: **52,780** levels
 - ps4: **36,797** levels
 - pc_egs: **35,013** levels
 - xsx: **19,967** levels
@@ -70,7 +70,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Falloween: **4,551** levels
 - Orbital Tumbling: **4,502** levels
 - Falling (in Love) on the Dancefloor: **4,402** levels
-- Fall For The Team: **4,365** levels
+- Fall For The Team: **4,366** levels
 - DnB (Drum & Beans): **4,325** levels
 - Carousel Stumble: **4,168** levels
 - Chimney Bean Bebop: **3,914** levels
@@ -92,7 +92,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - Virtual Beanity: **1,473** levels
 ### Versions
 - 21.3.0: **24,892** levels
-- 21.3.1: **16,651** levels
+- 21.3.1: **16,652** levels
 - 21.2.0: **16,431** levels
 - 11.1.0: **16,142** levels
 - 21.1.2: **15,445** levels
@@ -134,7 +134,7 @@ Web version with level search and easier previews can be found at [fga.floyzi.de
 - 11.0.0: **1** level
 ### Sources
 - FGAnalyst: **210,470** levels
-- Explore: **10,243** levels
+- Explore: **10,244** levels
 - Discord: **3,628** levels
 - BotLookup: **4** levels
 - Web: **1** level
